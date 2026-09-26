@@ -1,0 +1,6272 @@
+{
+  "bass": [
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Condenser 103",
+      "position": "Cap On Axis",
+      "file": "Markb410_103_1_90-MP"
+    },
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Condenser 103",
+      "position": "Cone On Axis",
+      "file": "Markb410_103_2A_90-MP"
+    },
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Condenser 103",
+      "position": "Edge On Axis",
+      "file": "Markb410_103_3_90-MP"
+    },
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Condenser 103",
+      "position": "Cap Off Axis",
+      "file": "Markb410_103_1_45-MP"
+    },
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Condenser 103",
+      "position": "Cone Off Axis",
+      "file": "Markb410_103_2A_45-MP"
+    },
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Condenser 103",
+      "position": "Edge Off Axis",
+      "file": "Markb410_103_3_45-MP"
+    },
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Condenser 414",
+      "position": "Cap On Axis",
+      "file": "Markb410_414_1_90-MP"
+    },
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Condenser 414",
+      "position": "Cone On Axis",
+      "file": "Markb410_414_2A_90-MP"
+    },
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Condenser 414",
+      "position": "Edge On Axis",
+      "file": "Markb410_414_3_90-MP"
+    },
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Condenser 414",
+      "position": "Cap Off Axis",
+      "file": "Markb410_414_1_45-MP"
+    },
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Condenser 414",
+      "position": "Cone Off Axis",
+      "file": "Markb410_414_2A_45-MP"
+    },
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Condenser 414",
+      "position": "Edge Off Axis",
+      "file": "Markb410_414_3_45-MP"
+    },
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Condenser 67",
+      "position": "Cap On Axis",
+      "file": "Markb410_67_1_90-MP"
+    },
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Condenser 67",
+      "position": "Cone On Axis",
+      "file": "Markb410_67_2B_90-MP"
+    },
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Condenser 67",
+      "position": "Edge On Axis",
+      "file": "Markb410_67_3_90-MP"
+    },
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Condenser 67",
+      "position": "Cap Off Axis",
+      "file": "Markb410_67_1_45-MP"
+    },
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Condenser 67",
+      "position": "Cone Off Axis",
+      "file": "Markb410_67_2B_45-MP"
+    },
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Condenser 67",
+      "position": "Edge Off Axis",
+      "file": "Markb410_67_3_45-MP"
+    },
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Dynamic 112",
+      "position": "Cap On Axis",
+      "file": "Markb410_112_1_90-MP"
+    },
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Dynamic 112",
+      "position": "Cone On Axis",
+      "file": "Markb410_112_2B_90-MP"
+    },
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Dynamic 112",
+      "position": "Edge On Axis",
+      "file": "Markb410_112_3_90-MP"
+    },
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Dynamic 112",
+      "position": "Cap Off Axis",
+      "file": "Markb410_112_1_45-MP"
+    },
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Dynamic 112",
+      "position": "Cone Off Axis",
+      "file": "Markb410_112_2B_45-MP"
+    },
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Dynamic 112",
+      "position": "Edge Off Axis",
+      "file": "Markb410_112_3_45-MP"
+    },
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Dynamic 421",
+      "position": "Cap On Axis",
+      "file": "Markb410_421_1_90-MP"
+    },
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Dynamic 421",
+      "position": "Cone On Axis",
+      "file": "Markb410_421_2B_90-MP"
+    },
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Dynamic 421",
+      "position": "Edge On Axis",
+      "file": "Markb410_421_3_90-MP"
+    },
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Dynamic 421",
+      "position": "Cap Off Axis",
+      "file": "Markb410_421_1_45-MP"
+    },
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Dynamic 421",
+      "position": "Cone Off Axis",
+      "file": "Markb410_421_2B_45-MP"
+    },
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Dynamic 421",
+      "position": "Edge Off Axis",
+      "file": "Markb410_421_3_45-MP"
+    },
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Dynamic 52",
+      "position": "Cap On Axis",
+      "file": "Markb410_52_1_90-MP"
+    },
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Dynamic 52",
+      "position": "Cone On Axis",
+      "file": "Markb410_52_2B_90-MP"
+    },
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Dynamic 52",
+      "position": "Edge On Axis",
+      "file": "Markb410_52_3_90-MP"
+    },
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Dynamic 52",
+      "position": "Cap Off Axis",
+      "file": "Markb410_52_1_45-MP"
+    },
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Dynamic 52",
+      "position": "Cone Off Axis",
+      "file": "Markb410_52_2B_45-MP"
+    },
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Dynamic 52",
+      "position": "Edge Off Axis",
+      "file": "Markb410_52_3_45-MP"
+    },
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Dynamic 7",
+      "position": "Cap On Axis",
+      "file": "Markb410_SM7_1_90-MP"
+    },
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Dynamic 7",
+      "position": "Cone On Axis",
+      "file": "Markb410_SM7_2A_90-MP"
+    },
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Dynamic 7",
+      "position": "Edge On Axis",
+      "file": "Markb410_SM7_3_90-MP"
+    },
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Dynamic 7",
+      "position": "Cap Off Axis",
+      "file": "Markb410_SM7_1_45-MP"
+    },
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Dynamic 7",
+      "position": "Cone Off Axis",
+      "file": "Markb410_SM7_2A_45-MP"
+    },
+    {
+      "cabinet": "Black & Yellow 4x10",
+      "mic": "Dynamic 7",
+      "position": "Edge Off Axis",
+      "file": "Markb410_SM7_3_45-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Condenser 103",
+      "position": "Cap On Axis",
+      "file": "FndBm410_103_1_90-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Condenser 103",
+      "position": "Cone On Axis",
+      "file": "FndBm410_103_2A_90-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Condenser 103",
+      "position": "Edge On Axis",
+      "file": "FndBm410_103_3_90-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Condenser 103",
+      "position": "Cap Off Axis",
+      "file": "FndBm410_103_1_45-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Condenser 103",
+      "position": "Cone Off Axis",
+      "file": "FndBm410_103_2A_45-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Condenser 103",
+      "position": "Edge Off Axis",
+      "file": "FndBm410_103_3_45-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Condenser 414",
+      "position": "Cap On Axis",
+      "file": "FndBm410_414_1_90-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Condenser 414",
+      "position": "Cone On Axis",
+      "file": "FndBm410_414_2A_90-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Condenser 414",
+      "position": "Edge On Axis",
+      "file": "FndBm410_414_3_90-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Condenser 414",
+      "position": "Cap Off Axis",
+      "file": "FndBm410_414_1_45-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Condenser 414",
+      "position": "Cone Off Axis",
+      "file": "FndBm410_414_2A_45-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Condenser 414",
+      "position": "Edge Off Axis",
+      "file": "FndBm410_414_3_45-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Condenser 67",
+      "position": "Cap On Axis",
+      "file": "FndBm410_67_1_90-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Condenser 67",
+      "position": "Cone On Axis",
+      "file": "FndBm410_67_2A_90-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Condenser 67",
+      "position": "Edge On Axis",
+      "file": "FndBm410_67_3_90-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Condenser 67",
+      "position": "Cap Off Axis",
+      "file": "FndBm410_67_1_45-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Condenser 67",
+      "position": "Cone Off Axis",
+      "file": "FndBm410_67_2A_45-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Condenser 67",
+      "position": "Edge Off Axis",
+      "file": "FndBm410_67_3_45-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Dynamic 112",
+      "position": "Cap On Axis",
+      "file": "FndBm410_112_1_90-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Dynamic 112",
+      "position": "Cone On Axis",
+      "file": "FndBm410_112_2A_90-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Dynamic 112",
+      "position": "Edge On Axis",
+      "file": "FndBm410_112_3_90-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Dynamic 112",
+      "position": "Cap Off Axis",
+      "file": "FndBm410_112_1_45-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Dynamic 112",
+      "position": "Cone Off Axis",
+      "file": "FndBm410_112_2A_45-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Dynamic 112",
+      "position": "Edge Off Axis",
+      "file": "FndBm410_112_3_45-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Dynamic 421",
+      "position": "Cap On Axis",
+      "file": "FndBm410_421_1_90-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Dynamic 421",
+      "position": "Cone On Axis",
+      "file": "FndBm410_421_2A_90-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Dynamic 421",
+      "position": "Edge On Axis",
+      "file": "FndBm410_421_3_90-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Dynamic 421",
+      "position": "Cap Off Axis",
+      "file": "FndBm410_421_1_45-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Dynamic 421",
+      "position": "Cone Off Axis",
+      "file": "FndBm410_421_2A_45-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Dynamic 421",
+      "position": "Edge Off Axis",
+      "file": "FndBm410_421_3_45-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Dynamic 52",
+      "position": "Cap On Axis",
+      "file": "FndBm410_52_1_90-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Dynamic 52",
+      "position": "Cone On Axis",
+      "file": "FndBm410_52_2A_90-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Dynamic 52",
+      "position": "Edge On Axis",
+      "file": "FndBm410_52_3_90-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Dynamic 52",
+      "position": "Cap Off Axis",
+      "file": "FndBm410_52_1_45-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Dynamic 52",
+      "position": "Cone Off Axis",
+      "file": "FndBm410_52_2A_45-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Dynamic 52",
+      "position": "Edge Off Axis",
+      "file": "FndBm410_52_3_45-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Dynamic 7",
+      "position": "Cap On Axis",
+      "file": "FndBm410_SM7_1_90-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Dynamic 7",
+      "position": "Cone On Axis",
+      "file": "FndBm410_SM7_2A_90-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Dynamic 7",
+      "position": "Edge On Axis",
+      "file": "FndBm410_SM7_3_90-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Dynamic 7",
+      "position": "Cap Off Axis",
+      "file": "FndBm410_SM7_1_45-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Dynamic 7",
+      "position": "Cone Off Axis",
+      "file": "FndBm410_SM7_2A_45-MP"
+    },
+    {
+      "cabinet": "California Bass 4x10",
+      "mic": "Dynamic 7",
+      "position": "Edge Off Axis",
+      "file": "FndBm410_SM7_3_45-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Condenser 103",
+      "position": "Cap On Axis",
+      "file": "212 103 on axis_01-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Condenser 103",
+      "position": "Cone On Axis",
+      "file": "DG 212 103 2 On_02-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Condenser 103",
+      "position": "Edge On Axis",
+      "file": "212 103 off axis_01-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Condenser 103",
+      "position": "Cap Off Axis",
+      "file": "DG 212 103 1 Off_04-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Condenser 103",
+      "position": "Cone Off Axis",
+      "file": "DG 212 103 2 Off_02-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Condenser 103",
+      "position": "Edge Off Axis",
+      "file": "DG 212 103 3 Off_02-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Condenser 414",
+      "position": "Cap On Axis",
+      "file": "212 414 on axis_01-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Condenser 414",
+      "position": "Cone On Axis",
+      "file": "DG 212 414 2 On_02-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Condenser 414",
+      "position": "Edge On Axis",
+      "file": "DG 212 414 3 On_03-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Condenser 414",
+      "position": "Cap Off Axis",
+      "file": "DG 212 414 1 Off_04-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Condenser 414",
+      "position": "Cone Off Axis",
+      "file": "DG 212 414 2 Off_02-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Condenser 414",
+      "position": "Edge Off Axis",
+      "file": "212 414 off axis_01-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Condenser 67",
+      "position": "Cap On Axis",
+      "file": "212 67 on axis_01-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Condenser 67",
+      "position": "Cone On Axis",
+      "file": "DG 212 67 2 On_02-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Condenser 67",
+      "position": "Edge On Axis",
+      "file": "212 67 off axis_01-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Condenser 67",
+      "position": "Cap Off Axis",
+      "file": "DG 212 67 1 Off_04-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Condenser 67",
+      "position": "Cone Off Axis",
+      "file": "DG 212 67 2 Off_02-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Condenser 67",
+      "position": "Edge Off Axis",
+      "file": "DG 212 67 3 Off_02-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Dynamic 112",
+      "position": "Cap On Axis",
+      "file": "212 D112 on axis_01-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Dynamic 112",
+      "position": "Cone On Axis",
+      "file": "DG 212 D112 2 On_02-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Dynamic 112",
+      "position": "Edge On Axis",
+      "file": "212 D112 off axis_01-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Dynamic 112",
+      "position": "Cap Off Axis",
+      "file": "DG 212 D112 1 Off_02-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Dynamic 112",
+      "position": "Cone Off Axis",
+      "file": "DG 212 D112 2 Off_02-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Dynamic 112",
+      "position": "Edge Off Axis",
+      "file": "DG 212 D112 3 Off_02-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Dynamic 421",
+      "position": "Cap On Axis",
+      "file": "DG 212 421 1 On_02-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Dynamic 421",
+      "position": "Cone On Axis",
+      "file": "212 421 on axis_01-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Dynamic 421",
+      "position": "Edge On Axis",
+      "file": "DG 212 421 3 On_03-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Dynamic 421",
+      "position": "Cap Off Axis",
+      "file": "DG 212 421 1 Off_03-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Dynamic 421",
+      "position": "Cone Off Axis",
+      "file": "212 421 off axis_01-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Dynamic 421",
+      "position": "Edge Off Axis",
+      "file": "DG 212 421 3 Off_02-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Dynamic 52",
+      "position": "Cap On Axis",
+      "file": "212 52 on axis_01-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Dynamic 52",
+      "position": "Cone On Axis",
+      "file": "DG 212 52 2 On_01-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Dynamic 52",
+      "position": "Edge On Axis",
+      "file": "DG 212 52 3 On_01-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Dynamic 52",
+      "position": "Cap Off Axis",
+      "file": "212 52 off axis_01-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Dynamic 52",
+      "position": "Cone Off Axis",
+      "file": "DG 212 52 2 Off_01-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Dynamic 52",
+      "position": "Edge Off Axis",
+      "file": "DG 212 52 3 Off_01-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Dynamic 7",
+      "position": "Cap On Axis",
+      "file": "DG 212 SM7 1 On_02-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Dynamic 7",
+      "position": "Cone On Axis",
+      "file": "212 SM7 on axis_01-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Dynamic 7",
+      "position": "Edge On Axis",
+      "file": "212 SM7 off axis_01-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Dynamic 7",
+      "position": "Cap Off Axis",
+      "file": "DG 212 SM7 1 Off_03-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Dynamic 7",
+      "position": "Cone Off Axis",
+      "file": "DG 212 SM7 2 Off_01-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 2x12",
+      "mic": "Dynamic 7",
+      "position": "Edge Off Axis",
+      "file": "DG 212 SM7 3 Off_03-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Condenser 103",
+      "position": "Cap On Axis",
+      "file": "DG 410 103 1 On_02-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Condenser 103",
+      "position": "Cone On Axis",
+      "file": "DG 410 103 2 On_02-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Condenser 103",
+      "position": "Edge On Axis",
+      "file": "DG 410 103 3 On_03-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Condenser 103",
+      "position": "Cap Off Axis",
+      "file": "DG 410 103 1 Off_02-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Condenser 103",
+      "position": "Cone Off Axis",
+      "file": "410 103 on axis_01-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Condenser 103",
+      "position": "Edge Off Axis",
+      "file": "410 103 off axis_01-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Condenser 414",
+      "position": "Cap On Axis",
+      "file": "410 414 on axis_01-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Condenser 414",
+      "position": "Cone On Axis",
+      "file": "410 414 off axis_01-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Condenser 414",
+      "position": "Edge On Axis",
+      "file": "DG 410 414 3 On_03-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Condenser 414",
+      "position": "Cap Off Axis",
+      "file": "DG 410 414 1 Off_02-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Condenser 414",
+      "position": "Cone Off Axis",
+      "file": "DG 410 414 2 Off_02-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Condenser 414",
+      "position": "Edge Off Axis",
+      "file": "DG 410 414 3 Off_02-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Condenser 67",
+      "position": "Cap On Axis",
+      "file": "DG 410 67 1 On_02-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Condenser 67",
+      "position": "Cone On Axis",
+      "file": "410 67 on axis_01-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Condenser 67",
+      "position": "Edge On Axis",
+      "file": "DG 410 67 3 On_03-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Condenser 67",
+      "position": "Cap Off Axis",
+      "file": "DG 410 67 1 Off_02-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Condenser 67",
+      "position": "Cone Off Axis",
+      "file": "DG 410 67 2 Off_02-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Condenser 67",
+      "position": "Edge Off Axis",
+      "file": "410 67 off axis_01-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Dynamic 112",
+      "position": "Cap On Axis",
+      "file": "DG 410 D112 1 On_02-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Dynamic 112",
+      "position": "Cone On Axis",
+      "file": "DG 410 D112 2 On_01-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Dynamic 112",
+      "position": "Edge On Axis",
+      "file": "DG 410 D112 3 On_03-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Dynamic 112",
+      "position": "Cap Off Axis",
+      "file": "410 D112 on axis_01-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Dynamic 112",
+      "position": "Cone Off Axis",
+      "file": "410 D112 off axis_01-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Dynamic 112",
+      "position": "Edge Off Axis",
+      "file": "DG 410 D112 3 Off_02-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Dynamic 421",
+      "position": "Cap On Axis",
+      "file": "DG 410 421 1 On_02-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Dynamic 421",
+      "position": "Cone On Axis",
+      "file": "DG 410 421 2 On_01-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Dynamic 421",
+      "position": "Edge On Axis",
+      "file": "DG 410 421 3 On_03-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Dynamic 421",
+      "position": "Cap Off Axis",
+      "file": "410 421 on axis_01-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Dynamic 421",
+      "position": "Cone Off Axis",
+      "file": "DG 410 421 2 Off_03-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Dynamic 421",
+      "position": "Edge Off Axis",
+      "file": "410 421 off axis_01-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Dynamic 52",
+      "position": "Cap On Axis",
+      "file": "DG 410 52 1 On_02-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Dynamic 52",
+      "position": "Cone On Axis",
+      "file": "410 52 on axis_01-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Dynamic 52",
+      "position": "Edge On Axis",
+      "file": "DG 410 52 3 On_03-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Dynamic 52",
+      "position": "Cap Off Axis",
+      "file": "DG 410 52 1 Off_03-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Dynamic 52",
+      "position": "Cone Off Axis",
+      "file": "DG 410 52 2 Off_03-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Dynamic 52",
+      "position": "Edge Off Axis",
+      "file": "410 52 off axis_01-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Dynamic 7",
+      "position": "Cap On Axis",
+      "file": "410 SM7 on axis_01-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Dynamic 7",
+      "position": "Cone On Axis",
+      "file": "DG 410 SM7 2 On_01-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Dynamic 7",
+      "position": "Edge On Axis",
+      "file": "410 SM7 off axis_01-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Dynamic 7",
+      "position": "Cap Off Axis",
+      "file": "DG 410 SM7 1 Off_03-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Dynamic 7",
+      "position": "Cone Off Axis",
+      "file": "DG 410 SM7 2 Off_03-MP"
+    },
+    {
+      "cabinet": "Darkglass Neo 4x10",
+      "mic": "Dynamic 7",
+      "position": "Edge Off Axis",
+      "file": "DG 410 SM7 3 Off_02-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Condenser 103",
+      "position": "Cap On Axis",
+      "file": "Orang115_103_1_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Condenser 103",
+      "position": "Cone On Axis",
+      "file": "Orang115_103_2A_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Condenser 103",
+      "position": "Edge On Axis",
+      "file": "Orang115_103_3_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Condenser 103",
+      "position": "Cap Off Axis",
+      "file": "Orang115_103_1_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Condenser 103",
+      "position": "Cone Off Axis",
+      "file": "Orang115_103_2A_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Condenser 103",
+      "position": "Edge Off Axis",
+      "file": "Orang115_103_3_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Condenser 414",
+      "position": "Cap On Axis",
+      "file": "Orang115_414_1_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Condenser 414",
+      "position": "Cone On Axis",
+      "file": "Orang115_414_2A_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Condenser 414",
+      "position": "Edge On Axis",
+      "file": "Orang115_414_3_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Condenser 414",
+      "position": "Cap Off Axis",
+      "file": "Orang115_414_1_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Condenser 414",
+      "position": "Cone Off Axis",
+      "file": "Orang115_414_2A_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Condenser 414",
+      "position": "Edge Off Axis",
+      "file": "Orang115_414_3_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Condenser 67",
+      "position": "Cap On Axis",
+      "file": "Orang115_67_1_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Condenser 67",
+      "position": "Cone On Axis",
+      "file": "Orang115_67_2A_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Condenser 67",
+      "position": "Edge On Axis",
+      "file": "Orang115_67_3_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Condenser 67",
+      "position": "Cap Off Axis",
+      "file": "Orang115_67_1_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Condenser 67",
+      "position": "Cone Off Axis",
+      "file": "Orang115_67_2A_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Condenser 67",
+      "position": "Edge Off Axis",
+      "file": "Orang115_67_3_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Dynamic 112",
+      "position": "Cap On Axis",
+      "file": "Orang115_112_1_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Dynamic 112",
+      "position": "Cone On Axis",
+      "file": "Orang115_112_2A_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Dynamic 112",
+      "position": "Edge On Axis",
+      "file": "Orang115_112_3_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Dynamic 112",
+      "position": "Cap Off Axis",
+      "file": "Orang115_112_1_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Dynamic 112",
+      "position": "Cone Off Axis",
+      "file": "Orang115_112_2A_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Dynamic 112",
+      "position": "Edge Off Axis",
+      "file": "Orang115_112_3_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Dynamic 421",
+      "position": "Cap On Axis",
+      "file": "Orang115_421_1_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Dynamic 421",
+      "position": "Cone On Axis",
+      "file": "Orang115_421_2A_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Dynamic 421",
+      "position": "Edge On Axis",
+      "file": "Orang115_421_3_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Dynamic 421",
+      "position": "Cap Off Axis",
+      "file": "Orang115_421_1_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Dynamic 421",
+      "position": "Cone Off Axis",
+      "file": "Orang115_421_2A_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Dynamic 421",
+      "position": "Edge Off Axis",
+      "file": "Orang115_421_3_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Dynamic 52",
+      "position": "Cap On Axis",
+      "file": "Orang115_52_1_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Dynamic 52",
+      "position": "Cone On Axis",
+      "file": "Orang115_52_2A_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Dynamic 52",
+      "position": "Edge On Axis",
+      "file": "Orang115_52_3_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Dynamic 52",
+      "position": "Cap Off Axis",
+      "file": "Orang115_52_1_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Dynamic 52",
+      "position": "Cone Off Axis",
+      "file": "Orang115_52_2A_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Dynamic 52",
+      "position": "Edge Off Axis",
+      "file": "Orang115_52_3_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Dynamic 7",
+      "position": "Cap On Axis",
+      "file": "Orang115_SM7_1_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Dynamic 7",
+      "position": "Cone On Axis",
+      "file": "Orang115_SM7_2A_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Dynamic 7",
+      "position": "Edge On Axis",
+      "file": "Orang115_SM7_3_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Dynamic 7",
+      "position": "Cap Off Axis",
+      "file": "Orang115_SM7_1_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Dynamic 7",
+      "position": "Cone Off Axis",
+      "file": "Orang115_SM7_2A_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 1x15",
+      "mic": "Dynamic 7",
+      "position": "Edge Off Axis",
+      "file": "Orang115_SM7_3_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Condenser 103",
+      "position": "Cap On Axis",
+      "file": "Orang410_103_1_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Condenser 103",
+      "position": "Cone On Axis",
+      "file": "Orang410_103_2A_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Condenser 103",
+      "position": "Edge On Axis",
+      "file": "Orang410_103_3_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Condenser 103",
+      "position": "Cap Off Axis",
+      "file": "Orang410_103_1_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Condenser 103",
+      "position": "Cone Off Axis",
+      "file": "Orang410_103_2A_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Condenser 103",
+      "position": "Edge Off Axis",
+      "file": "Orang410_103_3_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Condenser 414",
+      "position": "Cap On Axis",
+      "file": "Orang410_414_1_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Condenser 414",
+      "position": "Cone On Axis",
+      "file": "Orang410_414_2A_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Condenser 414",
+      "position": "Edge On Axis",
+      "file": "Orang410_414_3_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Condenser 414",
+      "position": "Cap Off Axis",
+      "file": "Orang410_414_1_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Condenser 414",
+      "position": "Cone Off Axis",
+      "file": "Orang410_414_2A_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Condenser 414",
+      "position": "Edge Off Axis",
+      "file": "Orang410_414_3_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Condenser 67",
+      "position": "Cap On Axis",
+      "file": "Orang410_67_1_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Condenser 67",
+      "position": "Cone On Axis",
+      "file": "Orang410_67_2A_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Condenser 67",
+      "position": "Edge On Axis",
+      "file": "Orang410_67_3_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Condenser 67",
+      "position": "Cap Off Axis",
+      "file": "Orang410_67_1_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Condenser 67",
+      "position": "Cone Off Axis",
+      "file": "Orang410_67_2A_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Condenser 67",
+      "position": "Edge Off Axis",
+      "file": "Orang410_67_3_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Dynamic 112",
+      "position": "Cap On Axis",
+      "file": "Orang410_112_1_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Dynamic 112",
+      "position": "Cone On Axis",
+      "file": "Orang410_112_2B_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Dynamic 112",
+      "position": "Edge On Axis",
+      "file": "Orang410_112_3_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Dynamic 112",
+      "position": "Cap Off Axis",
+      "file": "Orang410_112_1_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Dynamic 112",
+      "position": "Cone Off Axis",
+      "file": "Orang410_112_2B_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Dynamic 112",
+      "position": "Edge Off Axis",
+      "file": "Orang410_112_3_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Dynamic 421",
+      "position": "Cap On Axis",
+      "file": "Orang410_421_1_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Dynamic 421",
+      "position": "Cone On Axis",
+      "file": "Orang410_421_2B_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Dynamic 421",
+      "position": "Edge On Axis",
+      "file": "Orang410_421_3_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Dynamic 421",
+      "position": "Cap Off Axis",
+      "file": "Orang410_421_1_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Dynamic 421",
+      "position": "Cone Off Axis",
+      "file": "Orang410_421_2B_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Dynamic 421",
+      "position": "Edge Off Axis",
+      "file": "Orang410_421_3_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Dynamic 52",
+      "position": "Cap On Axis",
+      "file": "Orang410_52_1_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Dynamic 52",
+      "position": "Cone On Axis",
+      "file": "Orang410_52_2B_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Dynamic 52",
+      "position": "Edge On Axis",
+      "file": "Orang410_52_3_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Dynamic 52",
+      "position": "Cap Off Axis",
+      "file": "Orang410_52_1_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Dynamic 52",
+      "position": "Cone Off Axis",
+      "file": "Orang410_52_2B_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Dynamic 52",
+      "position": "Edge Off Axis",
+      "file": "Orang410_52_3_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Dynamic 7",
+      "position": "Cap On Axis",
+      "file": "Orang410_SM7_1_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Dynamic 7",
+      "position": "Cone On Axis",
+      "file": "Orang410_SM7_2A_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Dynamic 7",
+      "position": "Edge On Axis",
+      "file": "Orang410_SM7_3_90-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Dynamic 7",
+      "position": "Cap Off Axis",
+      "file": "Orang410_SM7_1_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Dynamic 7",
+      "position": "Cone Off Axis",
+      "file": "Orang410_SM7_2A_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 4x10",
+      "mic": "Dynamic 7",
+      "position": "Edge Off Axis",
+      "file": "Orang410_SM7_3_45-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Condenser 103",
+      "position": "Cap On Axis",
+      "file": "Orange810_on_3-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Condenser 103",
+      "position": "Cone On Axis",
+      "file": "Orange810_on_11-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Condenser 103",
+      "position": "Edge On Axis",
+      "file": "Orange810_on_19-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Condenser 103",
+      "position": "Cap Off Axis",
+      "file": "Orange810_off_3-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Condenser 103",
+      "position": "Cone Off Axis",
+      "file": "Orange810_off_11-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Condenser 103",
+      "position": "Edge Off Axis",
+      "file": "Orange810_off_19-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Condenser 414",
+      "position": "Cap On Axis",
+      "file": "Orange810_on_4-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Condenser 414",
+      "position": "Cone On Axis",
+      "file": "Orange810_on_12-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Condenser 414",
+      "position": "Edge On Axis",
+      "file": "Orange810_on_20-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Condenser 414",
+      "position": "Cap Off Axis",
+      "file": "Orange810_off_4-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Condenser 414",
+      "position": "Cone Off Axis",
+      "file": "Orange810_off_12-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Condenser 414",
+      "position": "Edge Off Axis",
+      "file": "Orange810_off_20-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Condenser 67",
+      "position": "Cap On Axis",
+      "file": "Orange810_on_8-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Condenser 67",
+      "position": "Cone On Axis",
+      "file": "Orange810_on_16-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Condenser 67",
+      "position": "Edge On Axis",
+      "file": "Orange810_on_24-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Condenser 67",
+      "position": "Cap Off Axis",
+      "file": "Orange810_off_8-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Condenser 67",
+      "position": "Cone Off Axis",
+      "file": "Orange810_off_16-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Condenser 67",
+      "position": "Edge Off Axis",
+      "file": "Orange810_off_24-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Dynamic 112",
+      "position": "Cap On Axis",
+      "file": "Orange810_on_5-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Dynamic 112",
+      "position": "Cone On Axis",
+      "file": "Orange810_on_13-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Dynamic 112",
+      "position": "Edge On Axis",
+      "file": "Orange810_on_21-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Dynamic 112",
+      "position": "Cap Off Axis",
+      "file": "Orange810_off_5-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Dynamic 112",
+      "position": "Cone Off Axis",
+      "file": "Orange810_off_13-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Dynamic 112",
+      "position": "Edge Off Axis",
+      "file": "Orange810_off_21-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Dynamic 421",
+      "position": "Cap On Axis",
+      "file": "Orange810_on_6-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Dynamic 421",
+      "position": "Cone On Axis",
+      "file": "Orange810_on_14-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Dynamic 421",
+      "position": "Edge On Axis",
+      "file": "Orange810_on_22-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Dynamic 421",
+      "position": "Cap Off Axis",
+      "file": "Orange810_off_6-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Dynamic 421",
+      "position": "Cone Off Axis",
+      "file": "Orange810_off_14-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Dynamic 421",
+      "position": "Edge Off Axis",
+      "file": "Orange810_off_22-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Dynamic 52",
+      "position": "Cap On Axis",
+      "file": "Orange810_on_1-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Dynamic 52",
+      "position": "Cone On Axis",
+      "file": "Orange810_on_9-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Dynamic 52",
+      "position": "Edge On Axis",
+      "file": "Orange810_on_17-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Dynamic 52",
+      "position": "Cap Off Axis",
+      "file": "Orange810_off_1-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Dynamic 52",
+      "position": "Cone Off Axis",
+      "file": "Orange810_off_9-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Dynamic 52",
+      "position": "Edge Off Axis",
+      "file": "Orange810_off_17-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Dynamic 7",
+      "position": "Cap On Axis",
+      "file": "Orange810_on_2-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Dynamic 7",
+      "position": "Cone On Axis",
+      "file": "Orange810_on_10-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Dynamic 7",
+      "position": "Edge On Axis",
+      "file": "Orange810_on_18-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Dynamic 7",
+      "position": "Cap Off Axis",
+      "file": "Orange810_off_2-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Dynamic 7",
+      "position": "Cone Off Axis",
+      "file": "Orange810_off_10-MP"
+    },
+    {
+      "cabinet": "Fruity Bass 8x10",
+      "mic": "Dynamic 7",
+      "position": "Edge Off Axis",
+      "file": "Orange810_off_18-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Condenser 103",
+      "position": "Cap On Axis",
+      "file": "Eden 118 103 1 On_01-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Condenser 103",
+      "position": "Cone On Axis",
+      "file": "Eden 118 103 2 On_01-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Condenser 103",
+      "position": "Edge On Axis",
+      "file": "Eden 118 103 3 On_01-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Condenser 103",
+      "position": "Cap Off Axis",
+      "file": "Eden 118 103 1 Off_01-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Condenser 103",
+      "position": "Cone Off Axis",
+      "file": "Eden 118 103 2 Off_01-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Condenser 103",
+      "position": "Edge Off Axis",
+      "file": "Eden 118 103 3 Off_01-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Condenser 414",
+      "position": "Cap On Axis",
+      "file": "Eden 118 414 1 On_01-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Condenser 414",
+      "position": "Cone On Axis",
+      "file": "Eden 118 414 2 On_01-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Condenser 414",
+      "position": "Edge On Axis",
+      "file": "Eden 118 414 3 On_01-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Condenser 414",
+      "position": "Cap Off Axis",
+      "file": "Eden 118 414 1 Off_01-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Condenser 414",
+      "position": "Cone Off Axis",
+      "file": "Eden 118 414 2 Off_01-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Condenser 414",
+      "position": "Edge Off Axis",
+      "file": "Eden 118 414 3 Off_01-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Condenser 67",
+      "position": "Cap On Axis",
+      "file": "Eden 118 67 1 On_01-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Condenser 67",
+      "position": "Cone On Axis",
+      "file": "Eden 118 67 2 On_01-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Condenser 67",
+      "position": "Edge On Axis",
+      "file": "Eden 118 67 3 On_01-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Condenser 67",
+      "position": "Cap Off Axis",
+      "file": "Eden 118 67 1 Off_01-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Condenser 67",
+      "position": "Cone Off Axis",
+      "file": "Eden 118 67 2 Off_01-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Condenser 67",
+      "position": "Edge Off Axis",
+      "file": "Eden 118 67 3 Off_01-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Dynamic 112",
+      "position": "Cap On Axis",
+      "file": "Eden 118 D112 1 On_01-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Dynamic 112",
+      "position": "Cone On Axis",
+      "file": "Eden 118 D112 2 On_01-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Dynamic 112",
+      "position": "Edge On Axis",
+      "file": "Eden 118 D112 3 On_01-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Dynamic 112",
+      "position": "Cap Off Axis",
+      "file": "Eden 118 D112 1 Off_01-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Dynamic 112",
+      "position": "Cone Off Axis",
+      "file": "Eden 118 D112 2 Off_01-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Dynamic 112",
+      "position": "Edge Off Axis",
+      "file": "Eden 118 D112 3 Off_01-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Dynamic 421",
+      "position": "Cap On Axis",
+      "file": "Eden 118 421 1 On_01-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Dynamic 421",
+      "position": "Cone On Axis",
+      "file": "Eden 118 421 2 On_01-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Dynamic 421",
+      "position": "Edge On Axis",
+      "file": "Eden 118 421 3 On_02-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Dynamic 421",
+      "position": "Cap Off Axis",
+      "file": "Eden 118 421 1 Off_01-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Dynamic 421",
+      "position": "Cone Off Axis",
+      "file": "Eden 118 421 2 Off_01-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Dynamic 421",
+      "position": "Edge Off Axis",
+      "file": "Eden 118 421 3 Off_01-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Dynamic 52",
+      "position": "Cap On Axis",
+      "file": "Eden 118 52 1 On_02-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Dynamic 52",
+      "position": "Cone On Axis",
+      "file": "Eden 118 52 2 On_02-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Dynamic 52",
+      "position": "Edge On Axis",
+      "file": "Eden 118 52 3 On_02-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Dynamic 52",
+      "position": "Cap Off Axis",
+      "file": "Eden 118 52 1 Off_02-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Dynamic 52",
+      "position": "Cone Off Axis",
+      "file": "Eden 118 52 2 Off_01-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Dynamic 52",
+      "position": "Edge Off Axis",
+      "file": "Eden 118 52 3 Off_02-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Dynamic 7",
+      "position": "Cap On Axis",
+      "file": "Eden 118 SM7 1 On_01-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Dynamic 7",
+      "position": "Cone On Axis",
+      "file": "Eden 118 SM7 2 On_01-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Dynamic 7",
+      "position": "Edge On Axis",
+      "file": "Eden 118 SM7 3 On_01-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Dynamic 7",
+      "position": "Cap Off Axis",
+      "file": "Eden 118 SM7 1 Off_01-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Dynamic 7",
+      "position": "Cone Off Axis",
+      "file": "Eden 118 SM7 2 Off_01-MP"
+    },
+    {
+      "cabinet": "Garden of 1x18",
+      "mic": "Dynamic 7",
+      "position": "Edge Off Axis",
+      "file": "Eden 118 SM7 3 Off_01-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Condenser 103",
+      "position": "Cap On Axis",
+      "file": "Eden 410 103 1 On_03-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Condenser 103",
+      "position": "Cone On Axis",
+      "file": "Eden 410 103 2 On_03-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Condenser 103",
+      "position": "Edge On Axis",
+      "file": "Eden 410 103 3 On_04-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Condenser 103",
+      "position": "Cap Off Axis",
+      "file": "Eden 410 103 1 Off_03-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Condenser 103",
+      "position": "Cone Off Axis",
+      "file": "Eden 410 103 2 Off_03-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Condenser 103",
+      "position": "Edge Off Axis",
+      "file": "Eden 410 103 3 Off_03-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Condenser 414",
+      "position": "Cap On Axis",
+      "file": "Eden 410 414 1 On_03-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Condenser 414",
+      "position": "Cone On Axis",
+      "file": "Eden 410 414 2 On_03-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Condenser 414",
+      "position": "Edge On Axis",
+      "file": "Eden 410 414 3 On_04-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Condenser 414",
+      "position": "Cap Off Axis",
+      "file": "Eden 410 414 1 Off_03-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Condenser 414",
+      "position": "Cone Off Axis",
+      "file": "Eden 410 414 2 Off_03-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Condenser 414",
+      "position": "Edge Off Axis",
+      "file": "Eden 410 414 3 Off_03-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Condenser 67",
+      "position": "Cap On Axis",
+      "file": "Eden 410 67 1 On_03-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Condenser 67",
+      "position": "Cone On Axis",
+      "file": "Eden 410 67 2 On_03-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Condenser 67",
+      "position": "Edge On Axis",
+      "file": "Eden 410 67 3 On_04-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Condenser 67",
+      "position": "Cap Off Axis",
+      "file": "Eden 410 67 1 Off_03-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Condenser 67",
+      "position": "Cone Off Axis",
+      "file": "Eden 410 67 2 Off_03-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Condenser 67",
+      "position": "Edge Off Axis",
+      "file": "Eden 410 67 3 Off_03-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Dynamic 112",
+      "position": "Cap On Axis",
+      "file": "Eden 410 D112 1 On_02-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Dynamic 112",
+      "position": "Cone On Axis",
+      "file": "Eden 410 D112 2 On_03-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Dynamic 112",
+      "position": "Edge On Axis",
+      "file": "Eden 410 D112 3 On_03-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Dynamic 112",
+      "position": "Cap Off Axis",
+      "file": "Eden 410 D112 1 Off_03-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Dynamic 112",
+      "position": "Cone Off Axis",
+      "file": "Eden 410 D112 2 Off_02-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Dynamic 112",
+      "position": "Edge Off Axis",
+      "file": "Eden 410 D112 3 Off_01-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Dynamic 421",
+      "position": "Cap On Axis",
+      "file": "Eden 410 421 1 On_02-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Dynamic 421",
+      "position": "Cone On Axis",
+      "file": "Eden 410 421 2 On_03-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Dynamic 421",
+      "position": "Edge On Axis",
+      "file": "Eden 410 421 3 On_03-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Dynamic 421",
+      "position": "Cap Off Axis",
+      "file": "Eden 410 421 1 Off_03-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Dynamic 421",
+      "position": "Cone Off Axis",
+      "file": "Eden 410 421 2 Off_02-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Dynamic 421",
+      "position": "Edge Off Axis",
+      "file": "Eden 410 421 3 Off_01-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Dynamic 52",
+      "position": "Cap On Axis",
+      "file": "Eden 410 52 1 On_02-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Dynamic 52",
+      "position": "Cone On Axis",
+      "file": "Eden 410 52 2 On_01-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Dynamic 52",
+      "position": "Edge On Axis",
+      "file": "Eden 410 52 3 On_01-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Dynamic 52",
+      "position": "Cap Off Axis",
+      "file": "Eden 410 52 1 Off_03-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Dynamic 52",
+      "position": "Cone Off Axis",
+      "file": "Eden 410 52 2 Off_01-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Dynamic 52",
+      "position": "Edge Off Axis",
+      "file": "Eden 410 52 3 Off_01-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Dynamic 7",
+      "position": "Cap On Axis",
+      "file": "Eden 410 SM7 1 On_02-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Dynamic 7",
+      "position": "Cone On Axis",
+      "file": "Eden 410 SM7 2 On_03-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Dynamic 7",
+      "position": "Edge On Axis",
+      "file": "Eden 410 SM7 3 On_03-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Dynamic 7",
+      "position": "Cap Off Axis",
+      "file": "Eden 410 SM7 1 Off_03-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Dynamic 7",
+      "position": "Cone Off Axis",
+      "file": "Eden 410 SM7 2 Off_02-MP"
+    },
+    {
+      "cabinet": "Garden of 4x10",
+      "mic": "Dynamic 7",
+      "position": "Edge Off Axis",
+      "file": "Eden 410 SM7 3 Off_02-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Condenser 103",
+      "position": "Cap On Axis",
+      "file": "Mesa 115 103 1 On_01-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Condenser 103",
+      "position": "Cone On Axis",
+      "file": "Mesa 115 103 2 On_01-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Condenser 103",
+      "position": "Edge On Axis",
+      "file": "Mesa 115 103 3 On_01-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Condenser 103",
+      "position": "Cap Off Axis",
+      "file": "Mesa 115 103 1 Off_01-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Condenser 103",
+      "position": "Cone Off Axis",
+      "file": "Mesa 115 103 2 Off_01-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Condenser 103",
+      "position": "Edge Off Axis",
+      "file": "Mesa 115 103 3 Off_01-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Condenser 414",
+      "position": "Cap On Axis",
+      "file": "Mesa 115 414 1 On_01-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Condenser 414",
+      "position": "Cone On Axis",
+      "file": "Mesa 115 414 2 On_01-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Condenser 414",
+      "position": "Edge On Axis",
+      "file": "Mesa 115 414 3 On_01-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Condenser 414",
+      "position": "Cap Off Axis",
+      "file": "Mesa 115 414 1 Off_01-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Condenser 414",
+      "position": "Cone Off Axis",
+      "file": "Mesa 115 414 2 Off_01-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Condenser 414",
+      "position": "Edge Off Axis",
+      "file": "Mesa 115 414 3 Off_01-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Condenser 67",
+      "position": "Cap On Axis",
+      "file": "Mesa 115 67 1 On_03-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Condenser 67",
+      "position": "Cone On Axis",
+      "file": "Mesa 115 67 2 On_01-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Condenser 67",
+      "position": "Edge On Axis",
+      "file": "Mesa 115 67 3 On_01-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Condenser 67",
+      "position": "Cap Off Axis",
+      "file": "Mesa 115 67 1 Off_01-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Condenser 67",
+      "position": "Cone Off Axis",
+      "file": "Mesa 115 67 2 Off_01-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Condenser 67",
+      "position": "Edge Off Axis",
+      "file": "Mesa 115 67 3 Off_01-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Dynamic 112",
+      "position": "Cap On Axis",
+      "file": "Mesa 115 D112 1 On_01-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Dynamic 112",
+      "position": "Cone On Axis",
+      "file": "Mesa 115 D112 2 On_01-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Dynamic 112",
+      "position": "Edge On Axis",
+      "file": "Mesa 115 D112 3 On_02-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Dynamic 112",
+      "position": "Cap Off Axis",
+      "file": "Mesa 115 D112 1 Off_01-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Dynamic 112",
+      "position": "Cone Off Axis",
+      "file": "Mesa 115 D112 2 Off_01-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Dynamic 112",
+      "position": "Edge Off Axis",
+      "file": "Mesa 115 D112 3 Off_01-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Dynamic 421",
+      "position": "Cap On Axis",
+      "file": "Mesa 115 421 1 On_01-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Dynamic 421",
+      "position": "Cone On Axis",
+      "file": "Mesa 115 421 2 On_01-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Dynamic 421",
+      "position": "Edge On Axis",
+      "file": "Mesa 115 421 3 On _01-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Dynamic 421",
+      "position": "Cap Off Axis",
+      "file": "Mesa 115 421 1 Off_01-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Dynamic 421",
+      "position": "Cone Off Axis",
+      "file": "Mesa 115 421 2 Off_01-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Dynamic 421",
+      "position": "Edge Off Axis",
+      "file": "Mesa 115 421 3 Off_01-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Dynamic 52",
+      "position": "Cap On Axis",
+      "file": "Mesa 115 52 1 On_01-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Dynamic 52",
+      "position": "Cone On Axis",
+      "file": "Mesa 115 52 2 On_01-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Dynamic 52",
+      "position": "Edge On Axis",
+      "file": "Mesa 115 52 3 On_02-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Dynamic 52",
+      "position": "Cap Off Axis",
+      "file": "Mesa 115 52 1 Off_01-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Dynamic 52",
+      "position": "Cone Off Axis",
+      "file": "Mesa 115 52 2 Off_01-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Dynamic 52",
+      "position": "Edge Off Axis",
+      "file": "Mesa 115 52 3 Off_01-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Dynamic 7",
+      "position": "Cap On Axis",
+      "file": "Mesa 115 SM7 1 On_01-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Dynamic 7",
+      "position": "Cone On Axis",
+      "file": "Mesa 115 SM7 2 On_01-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Dynamic 7",
+      "position": "Edge On Axis",
+      "file": "Mesa 115 SM7 3 On_01-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Dynamic 7",
+      "position": "Cap Off Axis",
+      "file": "Mesa 115 SM7 1 Off_01-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Dynamic 7",
+      "position": "Cone Off Axis",
+      "file": "Mesa 115 SM7 2 Off_01-MP"
+    },
+    {
+      "cabinet": "Modern Bass 1x15",
+      "mic": "Dynamic 7",
+      "position": "Edge Off Axis",
+      "file": "Mesa 115 SM7 3 Off_01-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Condenser 103",
+      "position": "Cap On Axis",
+      "file": "MesaP210_103_1_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Condenser 103",
+      "position": "Cone On Axis",
+      "file": "MesaP210_103_2B_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Condenser 103",
+      "position": "Edge On Axis",
+      "file": "MesaP210_103_3_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Condenser 103",
+      "position": "Cap Off Axis",
+      "file": "MesaP210_103_1_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Condenser 103",
+      "position": "Cone Off Axis",
+      "file": "MesaP210_103_2B_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Condenser 103",
+      "position": "Edge Off Axis",
+      "file": "MesaP210_103_3_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Condenser 414",
+      "position": "Cap On Axis",
+      "file": "MesaP210_414_1_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Condenser 414",
+      "position": "Cone On Axis",
+      "file": "MesaP210_414_2A_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Condenser 414",
+      "position": "Edge On Axis",
+      "file": "MesaP210_414_3_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Condenser 414",
+      "position": "Cap Off Axis",
+      "file": "MesaP210_414_1_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Condenser 414",
+      "position": "Cone Off Axis",
+      "file": "MesaP210_414_2A_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Condenser 414",
+      "position": "Edge Off Axis",
+      "file": "MesaP210_414_3_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Condenser 67",
+      "position": "Cap On Axis",
+      "file": "MesaP210_67_1_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Condenser 67",
+      "position": "Cone On Axis",
+      "file": "MesaP210_67_2A_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Condenser 67",
+      "position": "Edge On Axis",
+      "file": "MesaP210_67_3_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Condenser 67",
+      "position": "Cap Off Axis",
+      "file": "MesaP210_67_1_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Condenser 67",
+      "position": "Cone Off Axis",
+      "file": "MesaP210_67_2A_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Condenser 67",
+      "position": "Edge Off Axis",
+      "file": "MesaP210_67_3_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Dynamic 112",
+      "position": "Cap On Axis",
+      "file": "MesaP210_112_1_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Dynamic 112",
+      "position": "Cone On Axis",
+      "file": "MesaP210_112_2B_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Dynamic 112",
+      "position": "Edge On Axis",
+      "file": "MesaP210_112_3_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Dynamic 112",
+      "position": "Cap Off Axis",
+      "file": "MesaP210_112_1_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Dynamic 112",
+      "position": "Cone Off Axis",
+      "file": "MesaP210_112_2B_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Dynamic 112",
+      "position": "Edge Off Axis",
+      "file": "MesaP210_112_3_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Dynamic 421",
+      "position": "Cap On Axis",
+      "file": "MesaP210_421_1_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Dynamic 421",
+      "position": "Cone On Axis",
+      "file": "MesaP210_421_2A_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Dynamic 421",
+      "position": "Edge On Axis",
+      "file": "MesaP210_421_3_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Dynamic 421",
+      "position": "Cap Off Axis",
+      "file": "MesaP210_421_1_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Dynamic 421",
+      "position": "Cone Off Axis",
+      "file": "MesaP210_421_2A_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Dynamic 421",
+      "position": "Edge Off Axis",
+      "file": "MesaP210_421_3_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Dynamic 52",
+      "position": "Cap On Axis",
+      "file": "MesaP210_52_1_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Dynamic 52",
+      "position": "Cone On Axis",
+      "file": "MesaP210_52_2B_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Dynamic 52",
+      "position": "Edge On Axis",
+      "file": "MesaP210_52_3_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Dynamic 52",
+      "position": "Cap Off Axis",
+      "file": "MesaP210_52_1_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Dynamic 52",
+      "position": "Cone Off Axis",
+      "file": "MesaP210_52_2B_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Dynamic 52",
+      "position": "Edge Off Axis",
+      "file": "MesaP210_52_3_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Dynamic 7",
+      "position": "Cap On Axis",
+      "file": "MesaP210_SM7_1_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Dynamic 7",
+      "position": "Cone On Axis",
+      "file": "MesaP210_SM7_2A_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Dynamic 7",
+      "position": "Edge On Axis",
+      "file": "MesaP210_SM7_3_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Dynamic 7",
+      "position": "Cap Off Axis",
+      "file": "MesaP210_SM7_1_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Dynamic 7",
+      "position": "Cone Off Axis",
+      "file": "MesaP210_SM7_2A_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 2x10",
+      "mic": "Dynamic 7",
+      "position": "Edge Off Axis",
+      "file": "MesaP210_SM7_3_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Condenser 103",
+      "position": "Cap On Axis",
+      "file": "MesaP410_103_1_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Condenser 103",
+      "position": "Cone On Axis",
+      "file": "MesaP410_103_2A_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Condenser 103",
+      "position": "Edge On Axis",
+      "file": "MesaP410_103_3_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Condenser 103",
+      "position": "Cap Off Axis",
+      "file": "MesaP410_103_1_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Condenser 103",
+      "position": "Cone Off Axis",
+      "file": "MesaP410_103_2A_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Condenser 103",
+      "position": "Edge Off Axis",
+      "file": "MesaP410_103_3_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Condenser 414",
+      "position": "Cap On Axis",
+      "file": "MesaP410_414_1_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Condenser 414",
+      "position": "Cone On Axis",
+      "file": "MesaP410_414_2A_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Condenser 414",
+      "position": "Edge On Axis",
+      "file": "MesaP410_414_3_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Condenser 414",
+      "position": "Cap Off Axis",
+      "file": "MesaP410_414_1_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Condenser 414",
+      "position": "Cone Off Axis",
+      "file": "MesaP410_414_2A_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Condenser 414",
+      "position": "Edge Off Axis",
+      "file": "MesaP410_414_3_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Condenser 67",
+      "position": "Cap On Axis",
+      "file": "MesaP410_67_1_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Condenser 67",
+      "position": "Cone On Axis",
+      "file": "MesaP410_67_2A_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Condenser 67",
+      "position": "Edge On Axis",
+      "file": "MesaP410_67_3_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Condenser 67",
+      "position": "Cap Off Axis",
+      "file": "MesaP410_67_1_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Condenser 67",
+      "position": "Cone Off Axis",
+      "file": "MesaP410_67_2A_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Condenser 67",
+      "position": "Edge Off Axis",
+      "file": "MesaP410_67_3_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Dynamic 112",
+      "position": "Cap On Axis",
+      "file": "MesaP410_112_1_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Dynamic 112",
+      "position": "Cone On Axis",
+      "file": "MesaP410_112_2A_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Dynamic 112",
+      "position": "Edge On Axis",
+      "file": "MesaP410_112_3_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Dynamic 112",
+      "position": "Cap Off Axis",
+      "file": "MesaP410_112_1_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Dynamic 112",
+      "position": "Cone Off Axis",
+      "file": "MesaP410_112_2A_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Dynamic 112",
+      "position": "Edge Off Axis",
+      "file": "MesaP410_112_3_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Dynamic 421",
+      "position": "Cap On Axis",
+      "file": "MesaP410_421_1_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Dynamic 421",
+      "position": "Cone On Axis",
+      "file": "MesaP410_421_2A_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Dynamic 421",
+      "position": "Edge On Axis",
+      "file": "MesaP410_421_3_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Dynamic 421",
+      "position": "Cap Off Axis",
+      "file": "MesaP410_421_1_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Dynamic 421",
+      "position": "Cone Off Axis",
+      "file": "MesaP410_421_2A_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Dynamic 421",
+      "position": "Edge Off Axis",
+      "file": "MesaP410_421_3_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Dynamic 52",
+      "position": "Cap On Axis",
+      "file": "MesaP410_52_1_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Dynamic 52",
+      "position": "Cone On Axis",
+      "file": "MesaP410_52_2B_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Dynamic 52",
+      "position": "Edge On Axis",
+      "file": "MesaP410_52_3_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Dynamic 52",
+      "position": "Cap Off Axis",
+      "file": "MesaP410_52_1_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Dynamic 52",
+      "position": "Cone Off Axis",
+      "file": "MesaP410_52_2B_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Dynamic 52",
+      "position": "Edge Off Axis",
+      "file": "MesaP410_52_3_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Dynamic 7",
+      "position": "Cap On Axis",
+      "file": "MesaP410_SM7_1_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Dynamic 7",
+      "position": "Cone On Axis",
+      "file": "MesaP410_SM7_2A_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Dynamic 7",
+      "position": "Edge On Axis",
+      "file": "MesaP410_SM7_3_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Dynamic 7",
+      "position": "Cap Off Axis",
+      "file": "MesaP410_SM7_1_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Dynamic 7",
+      "position": "Cone Off Axis",
+      "file": "MesaP410_SM7_2A_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 4x10",
+      "mic": "Dynamic 7",
+      "position": "Edge Off Axis",
+      "file": "MesaP410_SM7_3_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Condenser 103",
+      "position": "Cap On Axis",
+      "file": "MesaP810_103_1_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Condenser 103",
+      "position": "Cone On Axis",
+      "file": "MesaP810_103_2A_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Condenser 103",
+      "position": "Edge On Axis",
+      "file": "MesaP810_103_3_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Condenser 103",
+      "position": "Cap Off Axis",
+      "file": "MesaP810_103_1_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Condenser 103",
+      "position": "Cone Off Axis",
+      "file": "MesaP810_103_2A_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Condenser 103",
+      "position": "Edge Off Axis",
+      "file": "MesaP810_103_3_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Condenser 414",
+      "position": "Cap On Axis",
+      "file": "MesaP810_414_1_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Condenser 414",
+      "position": "Cone On Axis",
+      "file": "MesaP810_414_2A_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Condenser 414",
+      "position": "Edge On Axis",
+      "file": "MesaP810_414_3_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Condenser 414",
+      "position": "Cap Off Axis",
+      "file": "MesaP810_414_1_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Condenser 414",
+      "position": "Cone Off Axis",
+      "file": "MesaP810_414_2A_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Condenser 414",
+      "position": "Edge Off Axis",
+      "file": "MesaP810_414_3_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Condenser 67",
+      "position": "Cap On Axis",
+      "file": "MesaP810_67_1_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Condenser 67",
+      "position": "Cone On Axis",
+      "file": "MesaP810_67_2B_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Condenser 67",
+      "position": "Edge On Axis",
+      "file": "MesaP810_67_3_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Condenser 67",
+      "position": "Cap Off Axis",
+      "file": "MesaP810_67_1_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Condenser 67",
+      "position": "Cone Off Axis",
+      "file": "MesaP810_67_2B_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Condenser 67",
+      "position": "Edge Off Axis",
+      "file": "MesaP810_67_3_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Dynamic 112",
+      "position": "Cap On Axis",
+      "file": "MesaP810_112_1_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Dynamic 112",
+      "position": "Cone On Axis",
+      "file": "MesaP810_112_2A_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Dynamic 112",
+      "position": "Edge On Axis",
+      "file": "MesaP810_112_3_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Dynamic 112",
+      "position": "Cap Off Axis",
+      "file": "MesaP810_112_1_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Dynamic 112",
+      "position": "Cone Off Axis",
+      "file": "MesaP810_112_2A_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Dynamic 112",
+      "position": "Edge Off Axis",
+      "file": "MesaP810_112_3_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Dynamic 421",
+      "position": "Cap On Axis",
+      "file": "MesaP810_421_1_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Dynamic 421",
+      "position": "Cone On Axis",
+      "file": "MesaP810_421_2B_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Dynamic 421",
+      "position": "Edge On Axis",
+      "file": "MesaP810_421_3_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Dynamic 421",
+      "position": "Cap Off Axis",
+      "file": "MesaP810_421_1_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Dynamic 421",
+      "position": "Cone Off Axis",
+      "file": "MesaP810_421_2B_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Dynamic 421",
+      "position": "Edge Off Axis",
+      "file": "MesaP810_421_3_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Dynamic 52",
+      "position": "Cap On Axis",
+      "file": "MesaP810_52_1_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Dynamic 52",
+      "position": "Cone On Axis",
+      "file": "MesaP810_52_2A_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Dynamic 52",
+      "position": "Edge On Axis",
+      "file": "MesaP810_52_3_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Dynamic 52",
+      "position": "Cap Off Axis",
+      "file": "MesaP810_52_1_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Dynamic 52",
+      "position": "Cone Off Axis",
+      "file": "MesaP810_52_2A_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Dynamic 52",
+      "position": "Edge Off Axis",
+      "file": "MesaP810_52_3_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Dynamic 7",
+      "position": "Cap On Axis",
+      "file": "MesaP810_SM7_1_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Dynamic 7",
+      "position": "Cone On Axis",
+      "file": "MesaP810_SM7_2B_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Dynamic 7",
+      "position": "Edge On Axis",
+      "file": "MesaP810_SM7_3_90-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Dynamic 7",
+      "position": "Cap Off Axis",
+      "file": "MesaP810_SM7_1_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Dynamic 7",
+      "position": "Cone Off Axis",
+      "file": "MesaP810_SM7_2B_45-MP"
+    },
+    {
+      "cabinet": "Modern Bass 8x10",
+      "mic": "Dynamic 7",
+      "position": "Edge Off Axis",
+      "file": "MesaP810_SM7_3_45-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Condenser 103",
+      "position": "Cap On Axis",
+      "file": "Berg_On_3-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Condenser 103",
+      "position": "Cone On Axis",
+      "file": "Berg_On_11-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Condenser 103",
+      "position": "Edge On Axis",
+      "file": "Berg_On_19-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Condenser 103",
+      "position": "Cap Off Axis",
+      "file": "Berg_Off_3-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Condenser 103",
+      "position": "Cone Off Axis",
+      "file": "Berg_Off_11-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Condenser 103",
+      "position": "Edge Off Axis",
+      "file": "Berg_Off_19-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Condenser 414",
+      "position": "Cap On Axis",
+      "file": "Berg_On_4-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Condenser 414",
+      "position": "Cone On Axis",
+      "file": "Berg_On_12-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Condenser 414",
+      "position": "Edge On Axis",
+      "file": "Berg_On_20-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Condenser 414",
+      "position": "Cap Off Axis",
+      "file": "Berg_Off_4-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Condenser 414",
+      "position": "Cone Off Axis",
+      "file": "Berg_Off_12-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Condenser 414",
+      "position": "Edge Off Axis",
+      "file": "Berg_Off_20-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Condenser 67",
+      "position": "Cap On Axis",
+      "file": "Berg_On_8-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Condenser 67",
+      "position": "Cone On Axis",
+      "file": "Berg_On_16-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Condenser 67",
+      "position": "Edge On Axis",
+      "file": "Berg_On_24-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Condenser 67",
+      "position": "Cap Off Axis",
+      "file": "Berg_Off_8-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Condenser 67",
+      "position": "Cone Off Axis",
+      "file": "Berg_Off_16-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Condenser 67",
+      "position": "Edge Off Axis",
+      "file": "Berg_Off_24-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Dynamic 112",
+      "position": "Cap On Axis",
+      "file": "Berg_On_5-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Dynamic 112",
+      "position": "Cone On Axis",
+      "file": "Berg_On_13-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Dynamic 112",
+      "position": "Edge On Axis",
+      "file": "Berg_On_21-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Dynamic 112",
+      "position": "Cap Off Axis",
+      "file": "Berg_Off_5-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Dynamic 112",
+      "position": "Cone Off Axis",
+      "file": "Berg_Off_13-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Dynamic 112",
+      "position": "Edge Off Axis",
+      "file": "Berg_Off_21-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Dynamic 421",
+      "position": "Cap On Axis",
+      "file": "Berg_On_6-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Dynamic 421",
+      "position": "Cone On Axis",
+      "file": "Berg_On_14-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Dynamic 421",
+      "position": "Edge On Axis",
+      "file": "Berg_On_22-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Dynamic 421",
+      "position": "Cap Off Axis",
+      "file": "Berg_Off_6-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Dynamic 421",
+      "position": "Cone Off Axis",
+      "file": "Berg_Off_14-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Dynamic 421",
+      "position": "Edge Off Axis",
+      "file": "Berg_Off_22-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Dynamic 52",
+      "position": "Cap On Axis",
+      "file": "Berg_On_1-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Dynamic 52",
+      "position": "Cone On Axis",
+      "file": "Berg_On_9-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Dynamic 52",
+      "position": "Edge On Axis",
+      "file": "Berg_On_17-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Dynamic 52",
+      "position": "Cap Off Axis",
+      "file": "Berg_Off_1-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Dynamic 52",
+      "position": "Cone Off Axis",
+      "file": "Berg_Off_9-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Dynamic 52",
+      "position": "Edge Off Axis",
+      "file": "Berg_Off_17-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Dynamic 7",
+      "position": "Cap On Axis",
+      "file": "Berg_On_2-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Dynamic 7",
+      "position": "Cone On Axis",
+      "file": "Berg_On_10-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Dynamic 7",
+      "position": "Edge On Axis",
+      "file": "Berg_On_18-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Dynamic 7",
+      "position": "Cap Off Axis",
+      "file": "Berg_Off_2-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Dynamic 7",
+      "position": "Cone Off Axis",
+      "file": "Berg_Off_10-MP"
+    },
+    {
+      "cabinet": "Mountainino 6x10",
+      "mic": "Dynamic 7",
+      "position": "Edge Off Axis",
+      "file": "Berg_Off_18-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Condenser 103",
+      "position": "Cap On Axis",
+      "file": "Ampeg 115 103 1 On.01_01-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Condenser 103",
+      "position": "Cone On Axis",
+      "file": "Ampeg 115 103 2 On.01_01-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Condenser 103",
+      "position": "Edge On Axis",
+      "file": "Ampeg 115 103 3 On.01_01-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Condenser 103",
+      "position": "Cap Off Axis",
+      "file": "Ampeg 115 103 1 Off.01_01-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Condenser 103",
+      "position": "Cone Off Axis",
+      "file": "Ampeg 115 103 2 Off.01_01-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Condenser 103",
+      "position": "Edge Off Axis",
+      "file": "Ampeg 115 103 3 Off.01_02-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Condenser 414",
+      "position": "Cap On Axis",
+      "file": "Ampeg 115 414 1 On.01_01-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Condenser 414",
+      "position": "Cone On Axis",
+      "file": "Ampeg 115 414 2 On.01_01-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Condenser 414",
+      "position": "Edge On Axis",
+      "file": "Ampeg 115 414 3 On.01_01-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Condenser 414",
+      "position": "Cap Off Axis",
+      "file": "Ampeg 115 414 1 Off.01_01-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Condenser 414",
+      "position": "Cone Off Axis",
+      "file": "Ampeg 115 414 2 Off.01_01-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Condenser 414",
+      "position": "Edge Off Axis",
+      "file": "Ampeg 115 414 3 Off.01_02-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Condenser 67",
+      "position": "Cap On Axis",
+      "file": "Ampeg 115 67 1 On.01_01-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Condenser 67",
+      "position": "Cone On Axis",
+      "file": "Ampeg 115 67 2 On.01_01-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Condenser 67",
+      "position": "Edge On Axis",
+      "file": "Ampeg 115 67 3 On.01_01-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Condenser 67",
+      "position": "Cap Off Axis",
+      "file": "Ampeg 115 67 1 Off.01_01-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Condenser 67",
+      "position": "Cone Off Axis",
+      "file": "Ampeg 115 67 2 Off.01_01-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Condenser 67",
+      "position": "Edge Off Axis",
+      "file": "Ampeg 115 67 3 Off.01_02-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Dynamic 112",
+      "position": "Cap On Axis",
+      "file": "Ampeg 115 D112 1 On_01-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Dynamic 112",
+      "position": "Cone On Axis",
+      "file": "Ampeg 115 D112 2 On_01-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Dynamic 112",
+      "position": "Edge On Axis",
+      "file": "Ampeg 115 D112 3 On_01-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Dynamic 112",
+      "position": "Cap Off Axis",
+      "file": "Ampeg 115 D112 1 Off_02-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Dynamic 112",
+      "position": "Cone Off Axis",
+      "file": "Ampeg 115 D112 2 Off_01-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Dynamic 112",
+      "position": "Edge Off Axis",
+      "file": "Ampeg 115 D112 3 Off_01-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Dynamic 421",
+      "position": "Cap On Axis",
+      "file": "Ampeg 115 421 1 On_01-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Dynamic 421",
+      "position": "Cone On Axis",
+      "file": "Ampeg 115 421 2 On_01-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Dynamic 421",
+      "position": "Edge On Axis",
+      "file": "Ampeg 115 421 3 On_01-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Dynamic 421",
+      "position": "Cap Off Axis",
+      "file": "Ampeg 115 421 1 Off_01-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Dynamic 421",
+      "position": "Cone Off Axis",
+      "file": "Ampeg 115 421 2 Off_01-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Dynamic 421",
+      "position": "Edge Off Axis",
+      "file": "Ampeg 115 421 3 Off_01-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Dynamic 52",
+      "position": "Cap On Axis",
+      "file": "Ampeg 115 52 1 On_01-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Dynamic 52",
+      "position": "Cone On Axis",
+      "file": "Ampeg 115 52 2 On_01-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Dynamic 52",
+      "position": "Edge On Axis",
+      "file": "Ampeg 115 52 3 On_01-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Dynamic 52",
+      "position": "Cap Off Axis",
+      "file": "Ampeg 115 52 1 Off_06-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Dynamic 52",
+      "position": "Cone Off Axis",
+      "file": "Ampeg 115 52 2 Off_01-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Dynamic 52",
+      "position": "Edge Off Axis",
+      "file": "Ampeg 115 52 3 Off_02-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Dynamic 7",
+      "position": "Cap On Axis",
+      "file": "Ampeg 115 SM7 1 On_01-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Dynamic 7",
+      "position": "Cone On Axis",
+      "file": "Ampeg 115 SM7 2 On_01-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Dynamic 7",
+      "position": "Edge On Axis",
+      "file": "Ampeg 115 SM7 3 On_01-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Dynamic 7",
+      "position": "Cap Off Axis",
+      "file": "Ampeg 115 SM7 1 Off_01-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Dynamic 7",
+      "position": "Cone Off Axis",
+      "file": "Ampeg 115 SM7 2 Off_01-MP"
+    },
+    {
+      "cabinet": "Peggy 1x15",
+      "mic": "Dynamic 7",
+      "position": "Edge Off Axis",
+      "file": "Ampeg 115 SM7 3 Off_01-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Condenser 103",
+      "position": "Cap On Axis",
+      "file": "Ampeg 410 103 1 On.01_02-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Condenser 103",
+      "position": "Cone On Axis",
+      "file": "Ampeg 410 103 2 On.01_02-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Condenser 103",
+      "position": "Edge On Axis",
+      "file": "Ampeg 410 103 3 On.01_03-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Condenser 103",
+      "position": "Cap Off Axis",
+      "file": "Ampeg 410 103 1 Off.01_02-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Condenser 103",
+      "position": "Cone Off Axis",
+      "file": "Ampeg 410 103 2 Off.01_02-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Condenser 103",
+      "position": "Edge Off Axis",
+      "file": "Ampeg 410 103 3 Off.01_02-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Condenser 414",
+      "position": "Cap On Axis",
+      "file": "Ampeg 410 414 1 On.01_02-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Condenser 414",
+      "position": "Cone On Axis",
+      "file": "Ampeg 410 414 2 On.01_02-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Condenser 414",
+      "position": "Edge On Axis",
+      "file": "Ampeg 410 414 3 On.01_03-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Condenser 414",
+      "position": "Cap Off Axis",
+      "file": "Ampeg 410 414 1 Off.01_02-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Condenser 414",
+      "position": "Cone Off Axis",
+      "file": "Ampeg 410 414 2 Off.01_02-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Condenser 414",
+      "position": "Edge Off Axis",
+      "file": "Ampeg 410 414 3 Off.01_02-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Condenser 67",
+      "position": "Cap On Axis",
+      "file": "Ampeg 410 67 1 On.01_02-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Condenser 67",
+      "position": "Cone On Axis",
+      "file": "Ampeg 410 67 2 On.01_02-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Condenser 67",
+      "position": "Edge On Axis",
+      "file": "Ampeg 410 67 3 On.01_03-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Condenser 67",
+      "position": "Cap Off Axis",
+      "file": "Ampeg 410 67 1 Off.01_02-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Condenser 67",
+      "position": "Cone Off Axis",
+      "file": "Ampeg 410 67 2 Off.01_02-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Condenser 67",
+      "position": "Edge Off Axis",
+      "file": "Ampeg 410 67 3 Off.01_02-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Dynamic 112",
+      "position": "Cap On Axis",
+      "file": "Ampeg 410 D112 1 On_01-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Dynamic 112",
+      "position": "Cone On Axis",
+      "file": "Ampeg 410 D112 2 On_01-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Dynamic 112",
+      "position": "Edge On Axis",
+      "file": "Ampeg 410 D112 3 On_02-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Dynamic 112",
+      "position": "Cap Off Axis",
+      "file": "Ampeg 410 D112 1 Off_02-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Dynamic 112",
+      "position": "Cone Off Axis",
+      "file": "Ampeg 410 D112 2 Off_01-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Dynamic 112",
+      "position": "Edge Off Axis",
+      "file": "Ampeg 410 D112 3 Off_01-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Dynamic 421",
+      "position": "Cap On Axis",
+      "file": "Ampeg 410 421 1 On_01-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Dynamic 421",
+      "position": "Cone On Axis",
+      "file": "Ampeg 410 421 2 On_01-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Dynamic 421",
+      "position": "Edge On Axis",
+      "file": "Ampeg 410 421 3 On_03-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Dynamic 421",
+      "position": "Cap Off Axis",
+      "file": "Ampeg 410 421 1 Off_02-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Dynamic 421",
+      "position": "Cone Off Axis",
+      "file": "Ampeg 410 421 2 Off_01-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Dynamic 421",
+      "position": "Edge Off Axis",
+      "file": "Ampeg 410 421 3 Off_01-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Dynamic 52",
+      "position": "Cap On Axis",
+      "file": "Ampeg 410 52 1 On_01-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Dynamic 52",
+      "position": "Cone On Axis",
+      "file": "Ampeg 410 52 2 On_01-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Dynamic 52",
+      "position": "Edge On Axis",
+      "file": "Ampeg 410 52 3 On_02-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Dynamic 52",
+      "position": "Cap Off Axis",
+      "file": "Ampeg 410 52 1 Off_02-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Dynamic 52",
+      "position": "Cone Off Axis",
+      "file": "Ampeg 410 52 2 Off_01-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Dynamic 52",
+      "position": "Edge Off Axis",
+      "file": "Ampeg 410 52 3 Off_01-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Dynamic 7",
+      "position": "Cap On Axis",
+      "file": "Ampeg 410 SM7 1 On_01-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Dynamic 7",
+      "position": "Cone On Axis",
+      "file": "Ampeg 410 SM7 2 On_01-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Dynamic 7",
+      "position": "Edge On Axis",
+      "file": "Ampeg 410 SM7 3 On_02-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Dynamic 7",
+      "position": "Cap Off Axis",
+      "file": "Ampeg 410 SM7 1 Off_02-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Dynamic 7",
+      "position": "Cone Off Axis",
+      "file": "Ampeg 410 SM7 2 Off_01-MP"
+    },
+    {
+      "cabinet": "Peggy 4x10",
+      "mic": "Dynamic 7",
+      "position": "Edge Off Axis",
+      "file": "Ampeg 410 SM7 3 Off_01-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Condenser 103",
+      "position": "Cap On Axis",
+      "file": "Ampeg 810 103 1 On_03-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Condenser 103",
+      "position": "Cone On Axis",
+      "file": "Ampeg 810 103 2 On_03-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Condenser 103",
+      "position": "Edge On Axis",
+      "file": "Ampeg 810 103 3 On_04-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Condenser 103",
+      "position": "Cap Off Axis",
+      "file": "Ampeg 810 103 1 Off_03-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Condenser 103",
+      "position": "Cone Off Axis",
+      "file": "Ampeg 810 103 2 Off_04-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Condenser 103",
+      "position": "Edge Off Axis",
+      "file": "Ampeg 810 103 3 Off_03-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Condenser 414",
+      "position": "Cap On Axis",
+      "file": "Ampeg 810 414 1 On_03-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Condenser 414",
+      "position": "Cone On Axis",
+      "file": "Ampeg 810 414 2 On_03-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Condenser 414",
+      "position": "Edge On Axis",
+      "file": "Ampeg 810 414 3 On_04-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Condenser 414",
+      "position": "Cap Off Axis",
+      "file": "Ampeg 810 414 1 Off_03-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Condenser 414",
+      "position": "Cone Off Axis",
+      "file": "Ampeg 810 414 2 Off_04-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Condenser 414",
+      "position": "Edge Off Axis",
+      "file": "Ampeg 810 414 3 Off_03-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Condenser 67",
+      "position": "Cap On Axis",
+      "file": "Ampeg 810 67 1 On_03-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Condenser 67",
+      "position": "Cone On Axis",
+      "file": "Ampeg 810 67 2 On_03-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Condenser 67",
+      "position": "Edge On Axis",
+      "file": "Ampeg 810 67 3 On_04-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Condenser 67",
+      "position": "Cap Off Axis",
+      "file": "Ampeg 810 67 1 Off_03-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Condenser 67",
+      "position": "Cone Off Axis",
+      "file": "Ampeg 810 67 2 Off_04-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Condenser 67",
+      "position": "Edge Off Axis",
+      "file": "Ampeg 810 67 3 Off_03-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Dynamic 112",
+      "position": "Cap On Axis",
+      "file": "Ampeg 810 D112 1 On_02-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Dynamic 112",
+      "position": "Cone On Axis",
+      "file": "Ampeg 810 D112 2 On_02-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Dynamic 112",
+      "position": "Edge On Axis",
+      "file": "Ampeg 810 D112 3 On_03-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Dynamic 112",
+      "position": "Cap Off Axis",
+      "file": "Ampeg 810 D112 1 Off_03-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Dynamic 112",
+      "position": "Cone Off Axis",
+      "file": "Ampeg 810 D112 2 Off_02-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Dynamic 112",
+      "position": "Edge Off Axis",
+      "file": "Ampeg 810 D112 3 Off_02-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Dynamic 421",
+      "position": "Cap On Axis",
+      "file": "Ampeg 810 421 1 On_02-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Dynamic 421",
+      "position": "Cone On Axis",
+      "file": "Ampeg 810 421 2 On_02-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Dynamic 421",
+      "position": "Edge On Axis",
+      "file": "Ampeg 810 421 3 On_02-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Dynamic 421",
+      "position": "Cap Off Axis",
+      "file": "Ampeg 810 421 1 Off_03-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Dynamic 421",
+      "position": "Cone Off Axis",
+      "file": "Ampeg 810 421 2 Off_02-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Dynamic 421",
+      "position": "Edge Off Axis",
+      "file": "Ampeg 810 421 3 Off_02-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Dynamic 52",
+      "position": "Cap On Axis",
+      "file": "Ampeg 810 52 1 On_02-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Dynamic 52",
+      "position": "Cone On Axis",
+      "file": "Ampeg 810 52 2 On_01-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Dynamic 52",
+      "position": "Edge On Axis",
+      "file": "Ampeg 810 52 3 On_01-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Dynamic 52",
+      "position": "Cap Off Axis",
+      "file": "Ampeg 810 52 1 Off_01-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Dynamic 52",
+      "position": "Cone Off Axis",
+      "file": "Ampeg 810 52 2 Off_01-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Dynamic 52",
+      "position": "Edge Off Axis",
+      "file": "Ampeg 810 52 3 Off_01-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Dynamic 7",
+      "position": "Cap On Axis",
+      "file": "Ampeg 810 SM7 1 On_02-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Dynamic 7",
+      "position": "Cone On Axis",
+      "file": "Ampeg 810 SM7 2 On_02-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Dynamic 7",
+      "position": "Edge On Axis",
+      "file": "Ampeg 810 SM7 3 On_03-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Dynamic 7",
+      "position": "Cap Off Axis",
+      "file": "Ampeg 810 SM7 1 Off_03-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Dynamic 7",
+      "position": "Cone Off Axis",
+      "file": "Ampeg 810 SM7 2 Off_02-MP"
+    },
+    {
+      "cabinet": "Peggy 8x10",
+      "mic": "Dynamic 7",
+      "position": "Edge Off Axis",
+      "file": "Ampeg 810 SM7 3 Off_02-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Condenser 103",
+      "position": "Cap On Axis",
+      "file": "SWR 115 103 1 On_02-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Condenser 103",
+      "position": "Cone On Axis",
+      "file": "SWR 115 103 2 On_03-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Condenser 103",
+      "position": "Edge On Axis",
+      "file": "SWR 115 103 3 On_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Condenser 103",
+      "position": "Cap Off Axis",
+      "file": "SWR 115 103 1 Off_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Condenser 103",
+      "position": "Cone Off Axis",
+      "file": "SWR 115 103 2 Off_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Condenser 103",
+      "position": "Edge Off Axis",
+      "file": "SWR 115 103 3 Off_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Condenser 414",
+      "position": "Cap On Axis",
+      "file": "SWR 115 414 1 On_02-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Condenser 414",
+      "position": "Cone On Axis",
+      "file": "SWR 115 414 2 On_03-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Condenser 414",
+      "position": "Edge On Axis",
+      "file": "SWR 115 414 3 On_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Condenser 414",
+      "position": "Cap Off Axis",
+      "file": "SWR 115 414 1 Off_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Condenser 414",
+      "position": "Cone Off Axis",
+      "file": "SWR 115 414 2 Off_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Condenser 414",
+      "position": "Edge Off Axis",
+      "file": "SWR 115 414 3 Off_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Condenser 67",
+      "position": "Cap On Axis",
+      "file": "SWR 115 67 1 On_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Condenser 67",
+      "position": "Cone On Axis",
+      "file": "SWR 115 67 2 On_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Condenser 67",
+      "position": "Edge On Axis",
+      "file": "SWR 115 67 3 On_02-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Condenser 67",
+      "position": "Cap Off Axis",
+      "file": "SWR 115 67 1 Off_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Condenser 67",
+      "position": "Cone Off Axis",
+      "file": "SWR 115 67 2 Off_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Condenser 67",
+      "position": "Edge Off Axis",
+      "file": "SWR 115 67 3 Off_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Dynamic 112",
+      "position": "Cap On Axis",
+      "file": "SWR 115 D112 1 On_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Dynamic 112",
+      "position": "Cone On Axis",
+      "file": "SWR 115 D112 2 On_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Dynamic 112",
+      "position": "Edge On Axis",
+      "file": "SWR 115 D112 3 On_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Dynamic 112",
+      "position": "Cap Off Axis",
+      "file": "SWR 115 D112 1 Off_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Dynamic 112",
+      "position": "Cone Off Axis",
+      "file": "SWR 115 D112 2 Off_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Dynamic 112",
+      "position": "Edge Off Axis",
+      "file": "SWR 115 D112 3 Off_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Dynamic 421",
+      "position": "Cap On Axis",
+      "file": "SWR 115 421 1 On_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Dynamic 421",
+      "position": "Cone On Axis",
+      "file": "SWR 115 421 2 On_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Dynamic 421",
+      "position": "Edge On Axis",
+      "file": "SWR 115 421 3 On_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Dynamic 421",
+      "position": "Cap Off Axis",
+      "file": "SWR 115 421 1 Off_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Dynamic 421",
+      "position": "Cone Off Axis",
+      "file": "SWR 115 421 2 Off_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Dynamic 421",
+      "position": "Edge Off Axis",
+      "file": "SWR 115 421 3 Off_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Dynamic 52",
+      "position": "Cap On Axis",
+      "file": "SWR 115 52 1 On_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Dynamic 52",
+      "position": "Cone On Axis",
+      "file": "SWR 115 52 2 On_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Dynamic 52",
+      "position": "Edge On Axis",
+      "file": "SWR 115 52 3 On_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Dynamic 52",
+      "position": "Cap Off Axis",
+      "file": "SWR 115 52 1 Off_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Dynamic 52",
+      "position": "Cone Off Axis",
+      "file": "SWR 115 52 2 Off_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Dynamic 52",
+      "position": "Edge Off Axis",
+      "file": "SWR 115 52 3 Off_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Dynamic 7",
+      "position": "Cap On Axis",
+      "file": "SWR 115 SM7 1 On_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Dynamic 7",
+      "position": "Cone On Axis",
+      "file": "SWR 115 SM7 2 On_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Dynamic 7",
+      "position": "Edge On Axis",
+      "file": "SWR 115 SM7 3 On_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Dynamic 7",
+      "position": "Cap Off Axis",
+      "file": "SWR 115 SM7 1 Off_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Dynamic 7",
+      "position": "Cone Off Axis",
+      "file": "SWR 115 SM7 2 Off_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 1x15",
+      "mic": "Dynamic 7",
+      "position": "Edge Off Axis",
+      "file": "SWR 115 SM7 3 Off_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Condenser 103",
+      "position": "Cap On Axis",
+      "file": "SWR 410 103 1 On_04-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Condenser 103",
+      "position": "Cone On Axis",
+      "file": "SWR 410 103 2 On_03-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Condenser 103",
+      "position": "Edge On Axis",
+      "file": "SWR 410 103 3 On_04-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Condenser 103",
+      "position": "Cap Off Axis",
+      "file": "SWR 410 103 1 Off_04-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Condenser 103",
+      "position": "Cone Off Axis",
+      "file": "SWR 410 103 2 Off_04-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Condenser 103",
+      "position": "Edge Off Axis",
+      "file": "SWR 410 103 3 Off_03-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Condenser 414",
+      "position": "Cap On Axis",
+      "file": "SWR 410 414 1 On_04-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Condenser 414",
+      "position": "Cone On Axis",
+      "file": "SWR 410 414 2 On_03-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Condenser 414",
+      "position": "Edge On Axis",
+      "file": "SWR 410 414 3 On_04-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Condenser 414",
+      "position": "Cap Off Axis",
+      "file": "SWR 410 414 1 Off_04-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Condenser 414",
+      "position": "Cone Off Axis",
+      "file": "SWR 410 414 2 Off_04-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Condenser 414",
+      "position": "Edge Off Axis",
+      "file": "SWR 410 414 3 Off_03-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Condenser 67",
+      "position": "Cap On Axis",
+      "file": "SWR 410 67 1 On_04-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Condenser 67",
+      "position": "Cone On Axis",
+      "file": "SWR 410 67 2 On_03-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Condenser 67",
+      "position": "Edge On Axis",
+      "file": "SWR 410 67 3 On_04-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Condenser 67",
+      "position": "Cap Off Axis",
+      "file": "SWR 410 67 1 Off_04-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Condenser 67",
+      "position": "Cone Off Axis",
+      "file": "SWR 410 67 2 Off_04-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Condenser 67",
+      "position": "Edge Off Axis",
+      "file": "SWR 410 67 3 Off_03-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Dynamic 112",
+      "position": "Cap On Axis",
+      "file": "SWR 410 D112 1 On_02-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Dynamic 112",
+      "position": "Cone On Axis",
+      "file": "SWR 410 D112 2 On_02-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Dynamic 112",
+      "position": "Edge On Axis",
+      "file": "SWR 410 D112 3 On_04-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Dynamic 112",
+      "position": "Cap Off Axis",
+      "file": "SWR 410 D112 1 Off_03-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Dynamic 112",
+      "position": "Cone Off Axis",
+      "file": "SWR 410 D112 2 Off_02-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Dynamic 112",
+      "position": "Edge Off Axis",
+      "file": "SWR 410 D112 3 Off_02-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Dynamic 421",
+      "position": "Cap On Axis",
+      "file": "SWR 410 421 1 On_02-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Dynamic 421",
+      "position": "Cone On Axis",
+      "file": "SWR 410 421 2 On_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Dynamic 421",
+      "position": "Edge On Axis",
+      "file": "SWR 410 421 3 On_05-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Dynamic 421",
+      "position": "Cap Off Axis",
+      "file": "SWR 410 421 1 Off_03-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Dynamic 421",
+      "position": "Cone Off Axis",
+      "file": "SWR 410 421 2 Off_02-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Dynamic 421",
+      "position": "Edge Off Axis",
+      "file": "SWR 410 421 3 Off_02-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Dynamic 52",
+      "position": "Cap On Axis",
+      "file": "SWR 410 52 1 On_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Dynamic 52",
+      "position": "Cone On Axis",
+      "file": "SWR 410 52 2 On_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Dynamic 52",
+      "position": "Edge On Axis",
+      "file": "SWR 410 52 3 On_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Dynamic 52",
+      "position": "Cap Off Axis",
+      "file": "SWR 410 52 1 Off_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Dynamic 52",
+      "position": "Cone Off Axis",
+      "file": "SWR 410 52 2 Off_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Dynamic 52",
+      "position": "Edge Off Axis",
+      "file": "SWR 410 52 3 Off_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Dynamic 7",
+      "position": "Cap On Axis",
+      "file": "SWR 410 SM7 1 On_02-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Dynamic 7",
+      "position": "Cone On Axis",
+      "file": "SWR 410 SM7 2 On_02-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Dynamic 7",
+      "position": "Edge On Axis",
+      "file": "SWR 410 SM7 3 On_04-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Dynamic 7",
+      "position": "Cap Off Axis",
+      "file": "SWR 410 SM7 1 Off_03-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Dynamic 7",
+      "position": "Cone Off Axis",
+      "file": "SWR 410 SM7 2 Off_02-MP"
+    },
+    {
+      "cabinet": "SWIRL 4x10",
+      "mic": "Dynamic 7",
+      "position": "Edge Off Axis",
+      "file": "SWR 410 SM7 3 Off_02-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Condenser 103",
+      "position": "Cap On Axis",
+      "file": "SWR 810 103 1 On_03-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Condenser 103",
+      "position": "Cone On Axis",
+      "file": "SWR 810 103 2 On_03-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Condenser 103",
+      "position": "Edge On Axis",
+      "file": "SWR 810 103 3 On_04-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Condenser 103",
+      "position": "Cap Off Axis",
+      "file": "SWR 810 103 1 Off_04-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Condenser 103",
+      "position": "Cone Off Axis",
+      "file": "SWR 810 103 2 Off_04-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Condenser 103",
+      "position": "Edge Off Axis",
+      "file": "SWR 810 103 3 Off_03-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Condenser 414",
+      "position": "Cap On Axis",
+      "file": "SWR 810 414 1 On_03-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Condenser 414",
+      "position": "Cone On Axis",
+      "file": "SWR 810 414 2 On_03-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Condenser 414",
+      "position": "Edge On Axis",
+      "file": "SWR 810 414 3 On_04-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Condenser 414",
+      "position": "Cap Off Axis",
+      "file": "SWR 810 414 1 Off_04-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Condenser 414",
+      "position": "Cone Off Axis",
+      "file": "SWR 810 414 2 Off_04-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Condenser 414",
+      "position": "Edge Off Axis",
+      "file": "SWR 810 414 3 Off_03-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Condenser 67",
+      "position": "Cap On Axis",
+      "file": "SWR 810 67 1 On_03-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Condenser 67",
+      "position": "Cone On Axis",
+      "file": "SWR 810 67 2 On_03-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Condenser 67",
+      "position": "Edge On Axis",
+      "file": "SWR 810 67 3 On_04-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Condenser 67",
+      "position": "Cap Off Axis",
+      "file": "SWR 810 67 1 Off_04-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Condenser 67",
+      "position": "Cone Off Axis",
+      "file": "SWR 810 67 2 Off_04-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Condenser 67",
+      "position": "Edge Off Axis",
+      "file": "SWR 810 67 3 Off_03-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Dynamic 112",
+      "position": "Cap On Axis",
+      "file": "SWR 810 D112 1 On_02-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Dynamic 112",
+      "position": "Cone On Axis",
+      "file": "SWR 810 D112 2 On_02-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Dynamic 112",
+      "position": "Edge On Axis",
+      "file": "SWR 810 D112 3 On_03-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Dynamic 112",
+      "position": "Cap Off Axis",
+      "file": "SWR 810 D112 1 Off_03-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Dynamic 112",
+      "position": "Cone Off Axis",
+      "file": "SWR 810 D112 2 Off_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Dynamic 112",
+      "position": "Edge Off Axis",
+      "file": "SWR 810 D112 3 Off_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Dynamic 421",
+      "position": "Cap On Axis",
+      "file": "SWR 810 421 1 On_02-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Dynamic 421",
+      "position": "Cone On Axis",
+      "file": "SWR 810 421 2 On_02-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Dynamic 421",
+      "position": "Edge On Axis",
+      "file": "SWR 810 421 3 On_02-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Dynamic 421",
+      "position": "Cap Off Axis",
+      "file": "SWR 810 421 1 Off_03-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Dynamic 421",
+      "position": "Cone Off Axis",
+      "file": "SWR 810 421 2 Off_02-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Dynamic 421",
+      "position": "Edge Off Axis",
+      "file": "SWR 810 421 3 Off_02-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Dynamic 52",
+      "position": "Cap On Axis",
+      "file": "SWR 810 52 1 On_02-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Dynamic 52",
+      "position": "Cone On Axis",
+      "file": "SWR 810 52 2 On_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Dynamic 52",
+      "position": "Edge On Axis",
+      "file": "SWR 810 52 3 On_03-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Dynamic 52",
+      "position": "Cap Off Axis",
+      "file": "SWR 810 52 1 Off_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Dynamic 52",
+      "position": "Cone Off Axis",
+      "file": "SWR 810 52 2 Off_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Dynamic 52",
+      "position": "Edge Off Axis",
+      "file": "SWR 810 52 3 Off_01-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Dynamic 7",
+      "position": "Cap On Axis",
+      "file": "SWR 810 SM7 1 On_02-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Dynamic 7",
+      "position": "Cone On Axis",
+      "file": "SWR 810 SM7 2 On_02-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Dynamic 7",
+      "position": "Edge On Axis",
+      "file": "SWR 810 SM7 3 On_03-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Dynamic 7",
+      "position": "Cap Off Axis",
+      "file": "SWR 810 SM7 1 Off_03-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Dynamic 7",
+      "position": "Cone Off Axis",
+      "file": "SWR 810 SM7 2 Off_02-MP"
+    },
+    {
+      "cabinet": "SWIRL 8x10",
+      "mic": "Dynamic 7",
+      "position": "Edge Off Axis",
+      "file": "SWR 810 SM7 3 Off_02-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Condenser 103",
+      "position": "Cap On Axis",
+      "file": "VAmpg810_103_1_90-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Condenser 103",
+      "position": "Cone On Axis",
+      "file": "VAmpg810_103_2A_90-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Condenser 103",
+      "position": "Edge On Axis",
+      "file": "VAmpg810_103_3_90-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Condenser 103",
+      "position": "Cap Off Axis",
+      "file": "VAmpg810_103_1_45-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Condenser 103",
+      "position": "Cone Off Axis",
+      "file": "VAmpg810_103_2A_45-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Condenser 103",
+      "position": "Edge Off Axis",
+      "file": "VAmpg810_103_3_45-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Condenser 414",
+      "position": "Cap On Axis",
+      "file": "VAmpg810_414_1_90-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Condenser 414",
+      "position": "Cone On Axis",
+      "file": "VAmpg810_414_2A_90-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Condenser 414",
+      "position": "Edge On Axis",
+      "file": "VAmpg810_414_3_90-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Condenser 414",
+      "position": "Cap Off Axis",
+      "file": "VAmpg810_414_1_45-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Condenser 414",
+      "position": "Cone Off Axis",
+      "file": "VAmpg810_414_2A_45-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Condenser 414",
+      "position": "Edge Off Axis",
+      "file": "VAmpg810_414_3_45-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Condenser 67",
+      "position": "Cap On Axis",
+      "file": "VAmpg810_67_1_90-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Condenser 67",
+      "position": "Cone On Axis",
+      "file": "VAmpg810_67_2A_90-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Condenser 67",
+      "position": "Edge On Axis",
+      "file": "VAmpg810_67_3_90-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Condenser 67",
+      "position": "Cap Off Axis",
+      "file": "VAmpg810_67_1_45-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Condenser 67",
+      "position": "Cone Off Axis",
+      "file": "VAmpg810_67_2A_45-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Condenser 67",
+      "position": "Edge Off Axis",
+      "file": "VAmpg810_67_3_45-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Dynamic 112",
+      "position": "Cap On Axis",
+      "file": "VAmpg810_112_1_90-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Dynamic 112",
+      "position": "Cone On Axis",
+      "file": "VAmpg810_112_2A_90-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Dynamic 112",
+      "position": "Edge On Axis",
+      "file": "VAmpg810_112_3_90-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Dynamic 112",
+      "position": "Cap Off Axis",
+      "file": "VAmpg810_112_1_45-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Dynamic 112",
+      "position": "Cone Off Axis",
+      "file": "VAmpg810_112_2A_45-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Dynamic 112",
+      "position": "Edge Off Axis",
+      "file": "VAmpg810_112_3_45-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Dynamic 421",
+      "position": "Cap On Axis",
+      "file": "VAmpg810_421_1_90-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Dynamic 421",
+      "position": "Cone On Axis",
+      "file": "VAmpg810_421_2A_90-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Dynamic 421",
+      "position": "Edge On Axis",
+      "file": "VAmpg810_421_3_90-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Dynamic 421",
+      "position": "Cap Off Axis",
+      "file": "VAmpg810_421_1_45-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Dynamic 421",
+      "position": "Cone Off Axis",
+      "file": "VAmpg810_421_2A_45-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Dynamic 421",
+      "position": "Edge Off Axis",
+      "file": "VAmpg810_421_3_45-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Dynamic 52",
+      "position": "Cap On Axis",
+      "file": "VAmpg810_52_1_90-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Dynamic 52",
+      "position": "Cone On Axis",
+      "file": "VAmpg810_52_2A_90-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Dynamic 52",
+      "position": "Edge On Axis",
+      "file": "VAmpg810_52_3_90-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Dynamic 52",
+      "position": "Cap Off Axis",
+      "file": "VAmpg810_52_1_45-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Dynamic 52",
+      "position": "Cone Off Axis",
+      "file": "VAmpg810_52_2A_45-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Dynamic 52",
+      "position": "Edge Off Axis",
+      "file": "VAmpg810_52_3_45-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Dynamic 7",
+      "position": "Cap On Axis",
+      "file": "VAmpg810_SM7_1_90-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Dynamic 7",
+      "position": "Cone On Axis",
+      "file": "VAmpg810_SM7_2A_90-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Dynamic 7",
+      "position": "Edge On Axis",
+      "file": "VAmpg810_SM7_3_90-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Dynamic 7",
+      "position": "Cap Off Axis",
+      "file": "VAmpg810_SM7_1_45-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Dynamic 7",
+      "position": "Cone Off Axis",
+      "file": "VAmpg810_SM7_2A_45-MP"
+    },
+    {
+      "cabinet": "Vintage Peggy 8x10",
+      "mic": "Dynamic 7",
+      "position": "Edge Off Axis",
+      "file": "VAmpg810_SM7_3_45-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Condenser 103",
+      "position": "Cap On Axis",
+      "file": "Fliptop_103_1_90-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Condenser 103",
+      "position": "Cone On Axis",
+      "file": "Fliptop_103_2_90-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Condenser 103",
+      "position": "Edge On Axis",
+      "file": "Fliptop_103_3_90-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Condenser 103",
+      "position": "Cap Off Axis",
+      "file": "Fliptop_103_1_45-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Condenser 103",
+      "position": "Cone Off Axis",
+      "file": "Fliptop_103_2_45-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Condenser 103",
+      "position": "Edge Off Axis",
+      "file": "Fliptop_103_3_45-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Condenser 414",
+      "position": "Cap On Axis",
+      "file": "Fliptop_414_1_90-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Condenser 414",
+      "position": "Cone On Axis",
+      "file": "Fliptop_414_2_90-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Condenser 414",
+      "position": "Edge On Axis",
+      "file": "Fliptop_414_3_90-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Condenser 414",
+      "position": "Cap Off Axis",
+      "file": "Fliptop_414_1_45-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Condenser 414",
+      "position": "Cone Off Axis",
+      "file": "Fliptop_414_2_45-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Condenser 414",
+      "position": "Edge Off Axis",
+      "file": "Fliptop_414_3_45-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Condenser 67",
+      "position": "Cap On Axis",
+      "file": "Fliptop_67_1_90-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Condenser 67",
+      "position": "Cone On Axis",
+      "file": "Fliptop_67_2_90-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Condenser 67",
+      "position": "Edge On Axis",
+      "file": "Fliptop_67_3_90-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Condenser 67",
+      "position": "Cap Off Axis",
+      "file": "Fliptop_67_1_45-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Condenser 67",
+      "position": "Cone Off Axis",
+      "file": "Fliptop_67_2_45-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Condenser 67",
+      "position": "Edge Off Axis",
+      "file": "Fliptop_67_3_45-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Dynamic 112",
+      "position": "Cap On Axis",
+      "file": "Fliptop_112_1_90-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Dynamic 112",
+      "position": "Cone On Axis",
+      "file": "Fliptop_112_2_90-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Dynamic 112",
+      "position": "Edge On Axis",
+      "file": "Fliptop_112_3_90-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Dynamic 112",
+      "position": "Cap Off Axis",
+      "file": "Fliptop_112_1_45-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Dynamic 112",
+      "position": "Cone Off Axis",
+      "file": "Fliptop_112_2_45-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Dynamic 112",
+      "position": "Edge Off Axis",
+      "file": "Fliptop_112_3_45-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Dynamic 421",
+      "position": "Cap On Axis",
+      "file": "Fliptop_421_1_90-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Dynamic 421",
+      "position": "Cone On Axis",
+      "file": "Fliptop_421_2_90-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Dynamic 421",
+      "position": "Edge On Axis",
+      "file": "Fliptop_421_3_90-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Dynamic 421",
+      "position": "Cap Off Axis",
+      "file": "Fliptop_421_1_45-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Dynamic 421",
+      "position": "Cone Off Axis",
+      "file": "Fliptop_421_2_45-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Dynamic 421",
+      "position": "Edge Off Axis",
+      "file": "Fliptop_421_3_45-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Dynamic 52",
+      "position": "Cap On Axis",
+      "file": "Fliptop_52_1_90-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Dynamic 52",
+      "position": "Cone On Axis",
+      "file": "Fliptop_52_2_90-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Dynamic 52",
+      "position": "Edge On Axis",
+      "file": "Fliptop_52_3_90-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Dynamic 52",
+      "position": "Cap Off Axis",
+      "file": "Fliptop_52_1_45-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Dynamic 52",
+      "position": "Cone Off Axis",
+      "file": "Fliptop_52_2_45-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Dynamic 52",
+      "position": "Edge Off Axis",
+      "file": "Fliptop_52_3_45-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Dynamic 7",
+      "position": "Cap On Axis",
+      "file": "Fliptop_SM7_1_90-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Dynamic 7",
+      "position": "Cone On Axis",
+      "file": "Fliptop_SM7_2_90-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Dynamic 7",
+      "position": "Edge On Axis",
+      "file": "Fliptop_SM7_3_90-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Dynamic 7",
+      "position": "Cap Off Axis",
+      "file": "Fliptop_SM7_1_45-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Dynamic 7",
+      "position": "Cone Off Axis",
+      "file": "Fliptop_SM7_2_45-MP"
+    },
+    {
+      "cabinet": "Peggy Fliptop 1x15",
+      "mic": "Dynamic 7",
+      "position": "Edge Off Axis",
+      "file": "Fliptop_SM7_3_45-MP"
+    }
+  ],
+  "guitar": [
+    {
+      "cabinet": "California combo 2x12",
+      "mic": "Condenser 184",
+      "position": "Cap On-axis",
+      "file": "FENDER_KM184_3"
+    },
+    {
+      "cabinet": "California combo 2x12",
+      "mic": "Condenser 184",
+      "position": "Cone On-axis",
+      "file": "FENDER_KM184_5"
+    },
+    {
+      "cabinet": "California combo 2x12",
+      "mic": "Condenser 184",
+      "position": "Edge On-axis",
+      "file": "FENDER_KM184_6"
+    },
+    {
+      "cabinet": "California combo 2x12",
+      "mic": "Dynamic 421",
+      "position": "Cap On-axis",
+      "file": "FENDER_MD421_3"
+    },
+    {
+      "cabinet": "California combo 2x12",
+      "mic": "Dynamic 421",
+      "position": "Cone On-axis",
+      "file": "FENDER_MD421_4"
+    },
+    {
+      "cabinet": "California combo 2x12",
+      "mic": "Dynamic 421",
+      "position": "Edge On-axis",
+      "file": "FENDER_MD421_6"
+    },
+    {
+      "cabinet": "California combo 2x12",
+      "mic": "Dynamic 57",
+      "position": "Cap On-axis",
+      "file": "FENDER_SM57_4"
+    },
+    {
+      "cabinet": "California combo 2x12",
+      "mic": "Dynamic 57",
+      "position": "Cone On-axis",
+      "file": "FENDER_SM57_5"
+    },
+    {
+      "cabinet": "California combo 2x12",
+      "mic": "Dynamic 57",
+      "position": "Edge On-axis",
+      "file": "FENDER_SM57_6"
+    },
+    {
+      "cabinet": "California combo 2x12",
+      "mic": "Dynamic 906",
+      "position": "Cap On-axis",
+      "file": "FENDER_E906_4"
+    },
+    {
+      "cabinet": "California combo 2x12",
+      "mic": "Dynamic 906",
+      "position": "Cone On-axis",
+      "file": "FENDER_E906_5"
+    },
+    {
+      "cabinet": "California combo 2x12",
+      "mic": "Dynamic 906",
+      "position": "Edge On-axis",
+      "file": "FENDER_E906_6"
+    },
+    {
+      "cabinet": "California combo 2x12",
+      "mic": "Ribbon 121",
+      "position": "Cap On-axis",
+      "file": "FENDER_R121_2"
+    },
+    {
+      "cabinet": "California combo 2x12",
+      "mic": "Ribbon 121",
+      "position": "Cone On-axis",
+      "file": "FENDER_R121_3"
+    },
+    {
+      "cabinet": "California combo 2x12",
+      "mic": "Ribbon 121",
+      "position": "Edge On-axis",
+      "file": "FENDER_R121_4"
+    },
+    {
+      "cabinet": "California combo 2x12",
+      "mic": "Ribbon 160",
+      "position": "Cap On-axis",
+      "file": "FENDER_M160_3"
+    },
+    {
+      "cabinet": "California combo 2x12",
+      "mic": "Ribbon 160",
+      "position": "Cone On-axis",
+      "file": "FENDER_M160_5"
+    },
+    {
+      "cabinet": "California combo 2x12",
+      "mic": "Ribbon 160",
+      "position": "Edge On-axis",
+      "file": "FENDER_M160_7"
+    },
+    {
+      "cabinet": "Fashionista 4x12",
+      "mic": "Condenser 184",
+      "position": "Cap On-axis",
+      "file": "ML_UBERKAB-T75_184_3"
+    },
+    {
+      "cabinet": "Fashionista 4x12",
+      "mic": "Condenser 184",
+      "position": "Cone On-axis",
+      "file": "ML_UBERKAB-T75_184_5"
+    },
+    {
+      "cabinet": "Fashionista 4x12",
+      "mic": "Condenser 184",
+      "position": "Edge On-axis",
+      "file": "ML_UBERKAB-T75_184_7"
+    },
+    {
+      "cabinet": "Fashionista 4x12",
+      "mic": "Dynamic 421",
+      "position": "Cap On-axis",
+      "file": "ML_UBERKAB-T75_421_4"
+    },
+    {
+      "cabinet": "Fashionista 4x12",
+      "mic": "Dynamic 421",
+      "position": "Cone On-axis",
+      "file": "ML_UBERKAB-T75_421_6"
+    },
+    {
+      "cabinet": "Fashionista 4x12",
+      "mic": "Dynamic 421",
+      "position": "Edge On-axis",
+      "file": "ML_UBERKAB-T75_421_7"
+    },
+    {
+      "cabinet": "Fashionista 4x12",
+      "mic": "Dynamic 57",
+      "position": "Cap On-axis",
+      "file": "ML_UBERKAB-T75_57_4"
+    },
+    {
+      "cabinet": "Fashionista 4x12",
+      "mic": "Dynamic 57",
+      "position": "Cone On-axis",
+      "file": "ML_UBERKAB-T75_57_6"
+    },
+    {
+      "cabinet": "Fashionista 4x12",
+      "mic": "Dynamic 57",
+      "position": "Edge On-axis",
+      "file": "ML_UBERKAB-T75_57_7"
+    },
+    {
+      "cabinet": "Fashionista 4x12",
+      "mic": "Dynamic 906",
+      "position": "Cap On-axis",
+      "file": "ML_UBERKAB-T75_906_3"
+    },
+    {
+      "cabinet": "Fashionista 4x12",
+      "mic": "Dynamic 906",
+      "position": "Cone On-axis",
+      "file": "ML_UBERKAB-T75_906_5"
+    },
+    {
+      "cabinet": "Fashionista 4x12",
+      "mic": "Dynamic 906",
+      "position": "Edge On-axis",
+      "file": "ML_UBERKAB-T75_906_7"
+    },
+    {
+      "cabinet": "Fashionista 4x12",
+      "mic": "Ribbon 121",
+      "position": "Cap On-axis",
+      "file": "ML_UBERKAB-T75_121_1"
+    },
+    {
+      "cabinet": "Fashionista 4x12",
+      "mic": "Ribbon 121",
+      "position": "Cone On-axis",
+      "file": "ML_UBERKAB-T75_121_4"
+    },
+    {
+      "cabinet": "Fashionista 4x12",
+      "mic": "Ribbon 121",
+      "position": "Edge On-axis",
+      "file": "ML_UBERKAB-T75_121_6"
+    },
+    {
+      "cabinet": "Fashionista 4x12",
+      "mic": "Ribbon 160",
+      "position": "Cap On-axis",
+      "file": "ML_UBERKAB-T75_160_3"
+    },
+    {
+      "cabinet": "Fashionista 4x12",
+      "mic": "Ribbon 160",
+      "position": "Cone On-axis",
+      "file": "ML_UBERKAB-T75_160_6"
+    },
+    {
+      "cabinet": "Fashionista 4x12",
+      "mic": "Ribbon 160",
+      "position": "Edge On-axis",
+      "file": "ML_UBERKAB-T75_160_7"
+    },
+    {
+      "cabinet": "Modern 4x12",
+      "mic": "Condenser 184",
+      "position": "Cap On-axis",
+      "file": "MESA_NEW_KM184_3"
+    },
+    {
+      "cabinet": "Modern 4x12",
+      "mic": "Condenser 184",
+      "position": "Cone On-axis",
+      "file": "MESA_NEW_KM184_5"
+    },
+    {
+      "cabinet": "Modern 4x12",
+      "mic": "Condenser 184",
+      "position": "Edge On-axis",
+      "file": "MESA_NEW_KM184_7"
+    },
+    {
+      "cabinet": "Modern 4x12",
+      "mic": "Dynamic 421",
+      "position": "Cap On-axis",
+      "file": "MESA_NEW_MD421_4"
+    },
+    {
+      "cabinet": "Modern 4x12",
+      "mic": "Dynamic 421",
+      "position": "Cone On-axis",
+      "file": "MESA_NEW_MD421_5"
+    },
+    {
+      "cabinet": "Modern 4x12",
+      "mic": "Dynamic 421",
+      "position": "Edge On-axis",
+      "file": "MESA_NEW_MD421_7"
+    },
+    {
+      "cabinet": "Modern 4x12",
+      "mic": "Dynamic 57",
+      "position": "Cap On-axis",
+      "file": "MESA_NEW_SM57_4"
+    },
+    {
+      "cabinet": "Modern 4x12",
+      "mic": "Dynamic 57",
+      "position": "Cone On-axis",
+      "file": "MESA_NEW_SM57_5"
+    },
+    {
+      "cabinet": "Modern 4x12",
+      "mic": "Dynamic 57",
+      "position": "Edge On-axis",
+      "file": "MESA_NEW_SM57_6"
+    },
+    {
+      "cabinet": "Modern 4x12",
+      "mic": "Dynamic 906",
+      "position": "Cap On-axis",
+      "file": "MESA_NEW_E906_4"
+    },
+    {
+      "cabinet": "Modern 4x12",
+      "mic": "Dynamic 906",
+      "position": "Cone On-axis",
+      "file": "MESA_NEW_E906_5"
+    },
+    {
+      "cabinet": "Modern 4x12",
+      "mic": "Dynamic 906",
+      "position": "Edge On-axis",
+      "file": "MESA_NEW_E906_6"
+    },
+    {
+      "cabinet": "Modern 4x12",
+      "mic": "Ribbon 121",
+      "position": "Cap On-axis",
+      "file": "MESA_NEW_R121_4"
+    },
+    {
+      "cabinet": "Modern 4x12",
+      "mic": "Ribbon 121",
+      "position": "Cone On-axis",
+      "file": "MESA_NEW_R121_5"
+    },
+    {
+      "cabinet": "Modern 4x12",
+      "mic": "Ribbon 121",
+      "position": "Edge On-axis",
+      "file": "MESA_NEW_R121_6"
+    },
+    {
+      "cabinet": "Modern 4x12",
+      "mic": "Ribbon 160",
+      "position": "Cap On-axis",
+      "file": "MESA_NEW_M160_4"
+    },
+    {
+      "cabinet": "Modern 4x12",
+      "mic": "Ribbon 160",
+      "position": "Cone On-axis",
+      "file": "MESA_NEW_M160_5"
+    },
+    {
+      "cabinet": "Modern 4x12",
+      "mic": "Ribbon 160",
+      "position": "Edge On-axis",
+      "file": "MESA_NEW_M160_7"
+    },
+    {
+      "cabinet": "Panzer 4x12",
+      "mic": "Condenser 184",
+      "position": "Cap On-axis",
+      "file": "DIEZEL_KM184_3"
+    },
+    {
+      "cabinet": "Panzer 4x12",
+      "mic": "Condenser 184",
+      "position": "Cone On-axis",
+      "file": "DIEZEL_KM184_4"
+    },
+    {
+      "cabinet": "Panzer 4x12",
+      "mic": "Condenser 184",
+      "position": "Edge On-axis",
+      "file": "DIEZEL_KM184_6"
+    },
+    {
+      "cabinet": "Panzer 4x12",
+      "mic": "Dynamic 421",
+      "position": "Cap On-axis",
+      "file": "DIEZEL_MD421_3"
+    },
+    {
+      "cabinet": "Panzer 4x12",
+      "mic": "Dynamic 421",
+      "position": "Cone On-axis",
+      "file": "DIEZEL_MD421_4"
+    },
+    {
+      "cabinet": "Panzer 4x12",
+      "mic": "Dynamic 421",
+      "position": "Edge On-axis",
+      "file": "DIEZEL_MD421_6"
+    },
+    {
+      "cabinet": "Panzer 4x12",
+      "mic": "Dynamic 57",
+      "position": "Cap On-axis",
+      "file": "DIEZEL_SM57_3"
+    },
+    {
+      "cabinet": "Panzer 4x12",
+      "mic": "Dynamic 57",
+      "position": "Cone On-axis",
+      "file": "DIEZEL_SM57_5"
+    },
+    {
+      "cabinet": "Panzer 4x12",
+      "mic": "Dynamic 57",
+      "position": "Edge On-axis",
+      "file": "DIEZEL_SM57_7"
+    },
+    {
+      "cabinet": "Panzer 4x12",
+      "mic": "Dynamic 906",
+      "position": "Cap On-axis",
+      "file": "DIEZEL_E906_4"
+    },
+    {
+      "cabinet": "Panzer 4x12",
+      "mic": "Dynamic 906",
+      "position": "Cone On-axis",
+      "file": "DIEZEL_E906_5"
+    },
+    {
+      "cabinet": "Panzer 4x12",
+      "mic": "Dynamic 906",
+      "position": "Edge On-axis",
+      "file": "DIEZEL_E906_6"
+    },
+    {
+      "cabinet": "Panzer 4x12",
+      "mic": "Ribbon 121",
+      "position": "Cap On-axis",
+      "file": "DIEZEL_R121_4"
+    },
+    {
+      "cabinet": "Panzer 4x12",
+      "mic": "Ribbon 121",
+      "position": "Cone On-axis",
+      "file": "DIEZEL_R121_6"
+    },
+    {
+      "cabinet": "Panzer 4x12",
+      "mic": "Ribbon 121",
+      "position": "Edge On-axis",
+      "file": "DIEZEL_R121_7"
+    },
+    {
+      "cabinet": "Panzer 4x12",
+      "mic": "Ribbon 160",
+      "position": "Cap On-axis",
+      "file": "DIEZEL_M160_2"
+    },
+    {
+      "cabinet": "Panzer 4x12",
+      "mic": "Ribbon 160",
+      "position": "Cone On-axis",
+      "file": "DIEZEL_M160_4"
+    },
+    {
+      "cabinet": "Panzer 4x12",
+      "mic": "Ribbon 160",
+      "position": "Edge On-axis",
+      "file": "DIEZEL_M160_6"
+    },
+    {
+      "cabinet": "Topper 2x12 combo",
+      "mic": "Condenser 184",
+      "position": "Cap On-axis",
+      "file": "ML_AC30_184_3"
+    },
+    {
+      "cabinet": "Topper 2x12 combo",
+      "mic": "Condenser 184",
+      "position": "Cone On-axis",
+      "file": "ML_AC30_184_5"
+    },
+    {
+      "cabinet": "Topper 2x12 combo",
+      "mic": "Condenser 184",
+      "position": "Edge On-axis",
+      "file": "ML_AC30_184_8"
+    },
+    {
+      "cabinet": "Topper 2x12 combo",
+      "mic": "Dynamic 421",
+      "position": "Cap On-axis",
+      "file": "ML_AC30_421_4"
+    },
+    {
+      "cabinet": "Topper 2x12 combo",
+      "mic": "Dynamic 421",
+      "position": "Cone On-axis",
+      "file": "ML_AC30_421_6"
+    },
+    {
+      "cabinet": "Topper 2x12 combo",
+      "mic": "Dynamic 421",
+      "position": "Edge On-axis",
+      "file": "ML_AC30_421_7"
+    },
+    {
+      "cabinet": "Topper 2x12 combo",
+      "mic": "Dynamic 57",
+      "position": "Cap On-axis",
+      "file": "ML_AC30_57_4"
+    },
+    {
+      "cabinet": "Topper 2x12 combo",
+      "mic": "Dynamic 57",
+      "position": "Cone On-axis",
+      "file": "ML_AC30_57_6"
+    },
+    {
+      "cabinet": "Topper 2x12 combo",
+      "mic": "Dynamic 57",
+      "position": "Edge On-axis",
+      "file": "ML_AC30_57_7"
+    },
+    {
+      "cabinet": "Topper 2x12 combo",
+      "mic": "Dynamic 906",
+      "position": "Cap On-axis",
+      "file": "ML_AC30_906_2"
+    },
+    {
+      "cabinet": "Topper 2x12 combo",
+      "mic": "Dynamic 906",
+      "position": "Cone On-axis",
+      "file": "ML_AC30_906_4"
+    },
+    {
+      "cabinet": "Topper 2x12 combo",
+      "mic": "Dynamic 906",
+      "position": "Edge On-axis",
+      "file": "ML_AC30_906_6"
+    },
+    {
+      "cabinet": "Topper 2x12 combo",
+      "mic": "Ribbon 121",
+      "position": "Cap On-axis",
+      "file": "ML_AC30_121_3"
+    },
+    {
+      "cabinet": "Topper 2x12 combo",
+      "mic": "Ribbon 121",
+      "position": "Cone On-axis",
+      "file": "ML_AC30_121_4"
+    },
+    {
+      "cabinet": "Topper 2x12 combo",
+      "mic": "Ribbon 121",
+      "position": "Edge On-axis",
+      "file": "ML_AC30_121_6"
+    },
+    {
+      "cabinet": "Topper 2x12 combo",
+      "mic": "Ribbon 160",
+      "position": "Cap On-axis",
+      "file": "ML_AC30_160_3"
+    },
+    {
+      "cabinet": "Topper 2x12 combo",
+      "mic": "Ribbon 160",
+      "position": "Cone On-axis",
+      "file": "ML_AC30_160_4"
+    },
+    {
+      "cabinet": "Topper 2x12 combo",
+      "mic": "Ribbon 160",
+      "position": "Edge On-axis",
+      "file": "ML_AC30_160_6"
+    },
+    {
+      "cabinet": "Vintage London 4x12",
+      "mic": "Condenser 184",
+      "position": "Cap On-axis",
+      "file": "MARSHALL_1971_KM184_3"
+    },
+    {
+      "cabinet": "Vintage London 4x12",
+      "mic": "Condenser 184",
+      "position": "Cone On-axis",
+      "file": "MARSHALL_1971_KM184_5"
+    },
+    {
+      "cabinet": "Vintage London 4x12",
+      "mic": "Condenser 184",
+      "position": "Edge On-axis",
+      "file": "MARSHALL_1971_KM184_6"
+    },
+    {
+      "cabinet": "Vintage London 4x12",
+      "mic": "Dynamic 421",
+      "position": "Cap On-axis",
+      "file": "MARSHALL_1971_MD421_3"
+    },
+    {
+      "cabinet": "Vintage London 4x12",
+      "mic": "Dynamic 421",
+      "position": "Cone On-axis",
+      "file": "MARSHALL_1971_MD421_5"
+    },
+    {
+      "cabinet": "Vintage London 4x12",
+      "mic": "Dynamic 421",
+      "position": "Edge On-axis",
+      "file": "MARSHALL_1971_MD421_7"
+    },
+    {
+      "cabinet": "Vintage London 4x12",
+      "mic": "Dynamic 57",
+      "position": "Cap On-axis",
+      "file": "MARSHALL_1971_SM57_3"
+    },
+    {
+      "cabinet": "Vintage London 4x12",
+      "mic": "Dynamic 57",
+      "position": "Cone On-axis",
+      "file": "MARSHALL_1971_SM57_5"
+    },
+    {
+      "cabinet": "Vintage London 4x12",
+      "mic": "Dynamic 57",
+      "position": "Edge On-axis",
+      "file": "MARSHALL_1971_SM57_6"
+    },
+    {
+      "cabinet": "Vintage London 4x12",
+      "mic": "Dynamic 906",
+      "position": "Cap On-axis",
+      "file": "MARSHALL_1971_E906_5"
+    },
+    {
+      "cabinet": "Vintage London 4x12",
+      "mic": "Dynamic 906",
+      "position": "Cone On-axis",
+      "file": "MARSHALL_1971_E906_6"
+    },
+    {
+      "cabinet": "Vintage London 4x12",
+      "mic": "Dynamic 906",
+      "position": "Edge On-axis",
+      "file": "MARSHALL_1971_E906_4"
+    },
+    {
+      "cabinet": "Vintage London 4x12",
+      "mic": "Ribbon 121",
+      "position": "Cap On-axis",
+      "file": "MARSHALL_1971_R121_2"
+    },
+    {
+      "cabinet": "Vintage London 4x12",
+      "mic": "Ribbon 121",
+      "position": "Cone On-axis",
+      "file": "MARSHALL_1971_R121_3"
+    },
+    {
+      "cabinet": "Vintage London 4x12",
+      "mic": "Ribbon 121",
+      "position": "Edge On-axis",
+      "file": "MARSHALL_1971_R121_4"
+    },
+    {
+      "cabinet": "Vintage London 4x12",
+      "mic": "Ribbon 160",
+      "position": "Cap On-axis",
+      "file": "MARSHALL_1971_M160_3"
+    },
+    {
+      "cabinet": "Vintage London 4x12",
+      "mic": "Ribbon 160",
+      "position": "Cone On-axis",
+      "file": "MARSHALL_1971_M160_5"
+    },
+    {
+      "cabinet": "Vintage London 4x12",
+      "mic": "Ribbon 160",
+      "position": "Edge On-axis",
+      "file": "MARSHALL_1971_M160_6"
+    }
+  ],
+  "artist": [
+    {
+      "description": "Dave - Beta52A",
+      "file": "Beta_52a-API-Off_AXIS"
+    },
+    {
+      "description": "Dave - D12e",
+      "file": "D12e-API-Off_AXIS"
+    },
+    {
+      "description": "Dave - MD421",
+      "file": "MD421_MK1-Neve-Off_AXIS"
+    },
+    {
+      "description": "Dave - MD441",
+      "file": "MD441-API-Off_AXIS"
+    },
+    {
+      "description": "Forrester - Bitey",
+      "file": "Forrester_s Bitey"
+    },
+    {
+      "description": "Forrester - Clear",
+      "file": "Forrester_s Clear"
+    },
+    {
+      "description": "Forrester - Monster",
+      "file": "Forrester_s Monster"
+    },
+    {
+      "description": "Forrester - Punch",
+      "file": "Forrester_s Punch"
+    },
+    {
+      "description": "Forrester - Thick",
+      "file": "Forrester_s Thick"
+    },
+    {
+      "description": "Jon - 2x12",
+      "file": "Jono 2x12 IR"
+    },
+    {
+      "description": "Jon - 4x10",
+      "file": "Jon 4x10 IR"
+    },
+    {
+      "description": "Jon - 8x10",
+      "file": "Jon 8x10 IR"
+    },
+    {
+      "description": "Nolly - Blend",
+      "file": "ADAM IR 1 - Nolly_s Blend"
+    },
+    {
+      "description": "Nolly - AllTheMids",
+      "file": "ADAM IR 2 - All The Mids"
+    },
+    {
+      "description": "Nolly - ScoopyDoo",
+      "file": "ADAM IR 3 - Scoopy Doo"
+    },
+    {
+      "description": "Nolly - RolledOff",
+      "file": "ADAM IR 4 - Rolled Off"
+    },
+    {
+      "description": "Nolly - VintageStack",
+      "file": "ADAM IR 5 - Vintage Stack"
+    },
+    {
+      "description": "Nolly - Mega-Meld-IR",
+      "file": "Nolly Bass IR"
+    }
+  ]
+}

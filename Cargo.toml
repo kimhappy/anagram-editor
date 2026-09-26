@@ -1,0 +1,118 @@
+[package]
+name = "anagram-editor"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+console_error_panic_hook = "0.1"
+floating-ui-leptos = "0.6"
+futures-channel = "0.3"
+gloo-events = "0.2"
+gloo-timers = { version = "0.3", features = ["futures"] }
+hound = "3.5"
+js-sys = "0.3"
+leptos = { version = "0.8", features = ["csr"] }
+leptos-node-ref = "0.2"
+leptos-use = { version = "0.19", default-features = false, features = ["use_resize_observer", "on_click_outside"] }
+lucide-leptos = { version = "3.47", features = ["account", "arrows", "devices", "files", "multimedia", "notifications", "social", "text"] }
+send_wrapper = "0.6"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+tw_merge = "0.1"
+wasm-bindgen = "=0.2.127"
+wasm-bindgen-futures = "0.4"
+web-sys = { version = "0.3", features = [
+  "DataTransfer",
+  "DomRect",
+  "DragEvent",
+  "EventTarget",
+  "Hid",
+  "HidConnectionEvent",
+  "HidDevice",
+  "HidDeviceFilter",
+  "HidDeviceRequestOptions",
+  "HidInputReportEvent",
+  "HtmlInputElement",
+  "KeyboardEvent",
+  "MidiAccess",
+  "MidiOptions",
+  "MidiOutput",
+  "MidiOutputMap",
+  "MidiPort",
+  "Navigator",
+  "Serial",
+  "SerialOptions",
+  "SerialPort",
+  "SerialPortFilter",
+  "SerialPortInfo",
+  "SerialPortRequestOptions",
+  "Storage",
+  "Blob",
+  "Crypto",
+  "File",
+  "FocusOptions",
+  "FileList",
+  "ReadableStream",
+  "ReadableStreamDefaultReader",
+  "WritableStream",
+  "WritableStreamDefaultWriter",
+  "Window",
+] }
+
+[dev-dependencies]
+futures-executor = "0.3"
+futures-util = "0.3"
+
+[target.'cfg(target_os = "linux")'.dev-dependencies]
+libc = "0.2"
+
+[profile.release]
+opt-level = "z"
+lto = true
+codegen-units = 1
+panic = "abort"
+
+[lints.clippy]
+all = { level = "warn", priority = -1 }
+pedantic = { level = "warn", priority = -1 }
+nursery = { level = "warn", priority = -1 }
+cargo = { level = "warn", priority = -1 }
+
+allow_attributes = "warn"
+allow_attributes_without_reason = "warn"
+assertions_on_result_states = "warn"
+cfg_not_test = "warn"
+clone_on_ref_ptr = "warn"
+dbg_macro = "warn"
+empty_structs_with_brackets = "warn"
+float_arithmetic = "warn"
+format_push_string = "warn"
+get_unwrap = "warn"
+if_then_some_else_none = "warn"
+indexing_slicing = "warn"
+integer_division = "warn"
+let_underscore_must_use = "warn"
+map_err_ignore = "warn"
+min_ident_chars = "warn"
+panic = "warn"
+partial_pub_fields = "warn"
+print_stderr = "warn"
+print_stdout = "warn"
+self_named_module_files = "warn"
+shadow_unrelated = "warn"
+str_to_string = "warn"
+string_slice = "warn"
+tests_outside_test_module = "warn"
+todo = "warn"
+unimplemented = "warn"
+unreachable = "warn"
+unwrap_in_result = "warn"
+unwrap_used = "warn"
+
+empty_enums = "allow"
+missing_errors_doc = "allow"
+needless_pass_by_value = "allow"
+module_name_repetitions = "allow"
+multiple_crate_versions = "allow"
+future_not_send = "allow"
+cargo_common_metadata = "allow"

@@ -1,0 +1,23 @@
+[build]
+target = "index.html"
+dist = "dist"
+
+[watch]
+watch = ["src", "style", "assets", "index.html", "Cargo.toml"]
+
+[serve]
+addresses = ["127.0.0.1"]
+port = 8080
+
+[tools]
+wasm_bindgen = "0.2.127"
+wasm_opt = "version_132"
+tailwindcss = "4.3.3"
+
+[[hooks]]
+stage = "post_build"
+command = "sh"
+command_arguments = [
+  "-c",
+  "mkdir -p \"$TRUNK_STAGING_DIR/fonts\" && cp \"$WEB_FONTS\"/*.woff2 \"$TRUNK_STAGING_DIR/fonts/\" && chmod u+w \"$TRUNK_STAGING_DIR\"/fonts/*",
+]
