@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Anagram Editor</title>
+    <script>
+      (() => {
+        const stored = localStorage.getItem("theme");
+        const isDark = stored ? stored === "dark" : matchMedia("(prefers-color-scheme: dark)").matches;
+        document.documentElement.classList.toggle("dark", isDark);
+      })();
+    </script>
+    <link rel="icon" href="/anagram-editor/favicon-4dc77ea5f24fdf5c.svg" integrity="sha384-QyfBLw/+OPycEB+VULzMMmrK5C8yJf/IjZx52fBeLHHyzEGZHj5xxFJrWpW+QwiT"/>
+    <link rel="stylesheet" href="/anagram-editor/tailwind-54c80ef977f8997b.css" integrity="sha384-uXTRpvvBXtpiNcC5J3CGONdV8CGWeLaW+knQkdAFyAYd9AaOf3hpvR65bDmtAlOD"/>
+    
+<script type="module">
+import init, * as bindings from '/anagram-editor/anagram-editor-77aadf603a12c130.js';
+const wasm = await init({ module_or_path: '/anagram-editor/anagram-editor-77aadf603a12c130_bg.wasm' });
+
+
+window.wasmBindings = bindings;
+
+
+dispatchEvent(new CustomEvent("TrunkApplicationStarted", {detail: {wasm}}));
+
+</script>
+  <link rel="modulepreload" href="/anagram-editor/anagram-editor-77aadf603a12c130.js" crossorigin="anonymous" integrity="sha384-soDGNRB78AqRoexlosDu02Hm20uVU3X4rQX9QAcbkweNuangRQv+Jk/Y3FnwQgZE"><link rel="modulepreload" href="/anagram-editor/snippets/anagram-editor-f756d830940a9805/inline0.js" crossorigin="anonymous" integrity="sha384-Gx5VpMQaP0e0qLv5O8vqDarZYNg4khoPoBXphFwzXCpFs+7xP3MllKOPXk8HWYty"><link rel="preload" href="/anagram-editor/anagram-editor-77aadf603a12c130_bg.wasm" crossorigin="anonymous" integrity="sha384-M6yhgTHO+tKoPdQEf4uPuB2K+hhSwDFAol/7/AE6KR5lk9FY+ydAv7mOI9TDmdr/" as="fetch" type="application/wasm"></head>
+  <body>
+    <div class="not-last:hidden flex h-screen items-center justify-center text-sm text-muted-foreground">
+      <p>Loading the editor…</p>
+      <noscript>The editor needs JavaScript and WebAssembly.</noscript>
+    </div>
+  </body>
+</html>
